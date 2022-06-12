@@ -37,7 +37,7 @@
 <h3 align="center">INIF-Assemsoft</h3>
 
   <p align="center">
-    project_description
+    Uludağ Üniversitesi İnegöl İşletme Fakültesi'nde kullanılacak olan kütüphane yönetim sistemi uygulamasıdır.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
