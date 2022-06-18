@@ -110,6 +110,7 @@ Bu kurmuş olduğumuz oturum yapısıyla uygulamada yapılan her işlemi "hangi 
 ## Kitap Ekle ve Hızlı Menü
 
 <img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/add-book.png" />
+<img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/add-book-quick-menu.png" />
 Bu panelde kütüphaneye dahil edilecek kitapları sisteme ekleme işlemi yapılıyor.
 Sağdaki listeden arama yapılarak eklenilecek kitap halihazırda var mı yok mu kontrol edilebiliyor.
 Eğer varsa kullanıcı sadece güncelleme işlemi yaparak o kitabın stok sayısını arttırması gerekiyor.
