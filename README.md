@@ -198,6 +198,7 @@ Bu panelde soldaki listeden kitap seçilerek o kitabın hangi üyelere ödünç 
 
 <img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/expired-books.png" />
 Bu panelde teslim tarihi geciken kitap ve üye bilgileri listeleniyor. Kaç gün geciktiği vb. bilgilerle destekleniyor.
+Tarih aralığına göre filtrelebiliyor.
 
 <p align="right">(<a href="#top">Başa dön</a>)</p>
 
