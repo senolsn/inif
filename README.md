@@ -254,12 +254,16 @@ Gidecek hatırlatma ve gecikme e-posta'larının günleri de ayarlanabiliyor.
 
 <p align="right">(<a href="#top">Başa dön</a>)</p>
 
-## Ek Özellikler
+## Ek Özellikler ve Detaylar
 
 <img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/email-settings.png" />
--Yöneticiler kaydedilirken parolaları şifrelenerek veritabanına kaydediliyor.
+-Geçmişe dönük kontroller ve sorgular yapabilmek için hiçbir veri silinmiyor. Aynı zamanda eklenme tarihleri varsayılan olarak tutuluyor.<br/>
+-Yöneticiler kaydedilirken parolaları şifrelenerek veritabanına kaydediliyor.<br/>
 -Yazmış olduğumuz algoritmayla her gün ödünç verilen kitaplar kontrol edilerek teslim tarihi gecikmiş olan üyelere gecikme e-posta'sı, teslim tarihi yaklaşan üyelere
-ise hatırlatma e-posta'sı gönderiliyor.
+ise hatırlatma e-posta'sı gönderiliyor.<br/>
+-Her yapılan işlem veritabanında kaydediliyor. Bu şekilde hangi işlemin, kim tarafından, ne zaman yapıldığı kontrolünü de yapabiliyoruz.<br/>
+-Eğer bir yazar silinmek istenirse ve o yazarın sahip olduğu bir kitap veya kitaplar kütüphanede bulunuyorsa kullanıcıya uyarı mesajı gösteriliyor.
+Aynı şekilde tüm diğer "yabancı anahtar" ilişkisi kurulan veriler için bu kontrol geçerli olarak çalışıyor.
 <br/>
 Örnek gecikme e-postası:
 <img width="500" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/expired-mail.PNG" />
@@ -284,24 +288,12 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
 <!-- CONTACT -->
 ## İletişim
 
 Emrecan AY - [@linkedin](https://www.linkedin.com/in/emrecan-ay/) - ayemrecan.info@gmail.com
 
 Project Link: [https://github.com/emrecanAy/inif-assemsoft](https://github.com/emrecanAy/inif-assemsoft)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
