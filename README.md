@@ -183,7 +183,21 @@ Teslim alınacak kitap da sağ üstteki listeden seçiliyor. Seçilen kitabın d
 ## Sicil Sorgu İşlemleri
 
 <img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/check-deposit-book.png" />
-Bu panelde hangi üye hangi kitapları almış, hangilerini teslim etmiş veya etmemiş bilgisi görülüyor.
+Bu panelde hangi üye hangi kitapları almış, hangilerini teslim etmiş veya etmemiş bilgisi görülebiliyor.
+
+<p align="right">(<a href="#top">Başa dön</a>)</p>
+
+## Ödünç Verilen Üye
+
+<img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/who-has-now.png" />
+Bu panelde soldaki listeden kitap seçilerek o kitabın hangi üyelere ödünç verildiği ve ne zaman teslim edilmesi gerektiği görülebiliyor. 
+
+<p align="right">(<a href="#top">Başa dön</a>)</p>
+
+## Gecikmiş Kitaplar
+
+<img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/expired-books.png" />
+Bu panelde teslim tarihi geciken kitap ve üye bilgileri listeleniyor. Kaç gün geciktiği vb. bilgilerle destekleniyor.
 
 <p align="right">(<a href="#top">Başa dön</a>)</p>
 
