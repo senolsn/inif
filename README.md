@@ -98,7 +98,7 @@ Buradaki e-posta kontrolleri okulumuz personellerinin sahip olduğu e-posta adre
 <br/><br/>
 <b>Örnek onay kodu e-postası:</b>
 <br/>
-<img width="250" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/verfication-mail.PNG" />
+<img width="420" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/verfication-mail.PNG" />
 
 <p align="right">(<a href="#top">Başa dön</a>)</p>
 
