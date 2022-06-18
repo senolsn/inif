@@ -200,7 +200,9 @@ ise hatırlatma e-posta'sı gönderiliyor.<br/>
 Aynı şekilde tüm diğer "yabancı anahtar" ilişkisi kurulan veriler için bu kontrol geçerli olarak çalışıyor.
 <br/><br/>
 <b>Örnek gecikme e-postası:</b>
-<img width="500" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/expired-mail.PNG" />
+<br/>
+<br/>
+<img width="400" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/expired-mail.PNG" />
 
 <p align="right">(<a href="#top">Başa dön</a>)</p>
 
