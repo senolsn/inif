@@ -96,9 +96,9 @@ Aynı şekilde "Kayıt Ol" sayfasında da kullanıcının girmiş olduğu e-post
 Buradaki e-posta kontrolleri okulumuz personellerinin sahip olduğu e-posta adreslerinin uzantılarına göre(...@uludag.edu.tr) yapılıyor.
 
 <br/><br/>
-Örnek onay kodu e-postası:
+<b>Örnek onay kodu e-postası:</b>
 <br/>
-<img width="500" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/verfication-mail.PNG" />
+<img width="250" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/verfication-mail.PNG" />
 
 <p align="right">(<a href="#top">Başa dön</a>)</p>
 
