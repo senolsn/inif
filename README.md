@@ -239,6 +239,16 @@ Altta da hangi admin, hangi çıktıyı, ne zaman aldı bilgisi gösteriliyor. B
 
 <p align="right">(<a href="#top">Başa dön</a>)</p>
 
+## Ayarlar
+
+<img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/email-settings.png" />
+Burada üyelere gönderilecek e-postalar için temel konfigürasyonlar yapılıyor. 
+Üyelere gönderilecek e-posta'ları gönderecek olan temel e-posta adresi ve şifresi belirtiliyor.
+Gönderilecek e-posta'nın da içeriği, başlığı ayarlanabiliyor.
+Gidecek hatırlatma ve gecikme e-posta'larının günleri de ayarlanabiliyor.
+
+<p align="right">(<a href="#top">Başa dön</a>)</p>
+
 ### Teknolojiler
 
 * [.Net](https://docs.microsoft.com/tr-tr/dotnet/welcome)
