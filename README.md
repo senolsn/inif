@@ -238,7 +238,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Emrecan AY (Fullstack Developer) - [@linkedin](https://www.linkedin.com/in/emrecan-ay/) [@instagram](https://www.instagram.com/codemrecan/) - ayemrecan.info@gmail.com  
 Şenol Şen (UI Team Lead) - [@linkedin](https://www.linkedin.com/in/senolsen/) [@instagram](https://www.instagram.com/senols16/) - senoltr@yandex.com  
-Melike Yıldız 
+Melike Yıldız (Contributors) - [@linkedin](https://www.linkedin.com/in/melikeyildiz2/) - yildiz-melike@outlook.com  
+
 Proje Link: [https://github.com/emrecanAy/inif-assemsoft](https://github.com/emrecanAy/inif-assemsoft)
 
 <p align="right">(<a href="#top">Başa dön</a>)</p>
