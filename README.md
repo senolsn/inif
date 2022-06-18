@@ -144,7 +144,7 @@ Tarih aralığına göre filtrelebiliyor.
 
 ## Diğer İşlemler
 
-<img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/expired-books.png" />
+<img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/other-ops.png" />
 Bu panelde menüdeki detayda göründüğü üzere yazar, kategori, dil vb. içerikleri ekleme, silme ve güncelleme yapılabiliyor.
 Tarih aralığına göre filtrelebiliyor.
 
