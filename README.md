@@ -84,6 +84,7 @@
 ## About The Project
 
 <div align="left"><img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/login.png" /></div>
+<div align="left"><img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/register.png" /></div>
 [![Giriş ve Kayıt Ol Sayfası]
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
