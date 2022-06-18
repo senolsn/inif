@@ -139,6 +139,7 @@ Kitaplar ad, yazar gibi sahip olduğu niteliklere göre aranabiliyor. Ek olarak 
 Bu panelde kütüphaneye dahil edilecek üyeleri sisteme ekleme işlemi yapılıyor.
 Sağdaki listeden arama yapılarak eklenilecek üye halihazırda var mı yok mu kontrol edilebiliyor.
 İki farklı üye çeşidi olacağı(Öğrenci-Personel) için ayrı arayüzlerde işlem yapılıyor. 
+Kitap ekleme de olduğu gibi burada da çoklu seçimlere ekleme yapabilmek için hızlı menüler bulunuyor.
 
 <p align="right">(<a href="#top">Başa dön</a>)</p>
 
