@@ -147,9 +147,26 @@ Kitap ekleme de olduğu gibi burada da çoklu seçimlere ekleme yapabilmek için
 
 <img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/list-personnel.png" />
 <img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/list-student.png" />
-Bu panelde sistemde bulunan üyeleri listeleme işlemi yapılıyor.
-Kitaplar ad, yazar gibi sahip olduğu niteliklere göre aranabiliyor. Ek olarak bir tarih aralığı belirterek eklenme tarihlerine göre de filtrelenebiliyor. 
+Bu panellerde sistemde bulunan üyeleri listeleme işlemi yapılıyor.
+Üyeler ad, e-posta gibi sahip olduğu niteliklere göre aranabiliyor. Ek olarak bir tarih aralığı belirterek eklenme tarihlerine göre de filtrelenebiliyor. 
 
+
+<p align="right">(<a href="#top">Başa dön</a>)</p>
+
+## Kitap Ödünç Verme
+
+<img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/deposit-book.png" />
+Bu panelde kitaplar üyelere ödünç veriliyor.
+Sağ üst kısımdan ödünç verilecek öğrenci, numarasına göre arama yapılarak seçiliyor.
+Solda listeden ise hangi kitabı ödünç almak istiyorsa arama yapılarak seçiliyor.
+Seçilen öğrencinin ve kitabın detay bilgileri sağdaki kısımda gözüküyor.
+Ek olarak sağ alt kısımda seçilen kitabın şu anda hangi üyelerde bulunduğu ve ne zaman teslim edecekleri bilgisi gösteriliyor.
+<br/>
+Buradaki ek özellikler şu şekilde:<br/>
+-Eğer stokta olmayan bir kitap verilmek istenirse uyarı mesajı gösterilerek bu durum engelleniyor.<br/>
+-Aynı üye aynı kitabı tekrar tekrar ödünç alamıyor. Öncelikle ilk aldığını teslim etmesi bekleniyor.<br/>
+-Üye seçme kısmındaki çoklu seçim menüsünde öğrenci ve personel olarak iki seçenek bulunuyor. <br/>
+Seçilen değere göre öğrenciler veya personeller listeleniyor.<br/>Okul veya sicil numarasına göre arama yapılıyor.
 
 <p align="right">(<a href="#top">Başa dön</a>)</p>
 
