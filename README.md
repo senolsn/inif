@@ -202,6 +202,35 @@ Tarih aralığına göre filtrelebiliyor.
 
 <p align="right">(<a href="#top">Başa dön</a>)</p>
 
+## Diğer İşlemler
+
+<img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/expired-books.png" />
+Bu panelde menüdeki detayda göründüğü üzere yazar, kategori, dil vb. içerikleri ekleme, silme ve güncelleme yapılabiliyor.
+Tarih aralığına göre filtrelebiliyor.
+
+<p align="right">(<a href="#top">Başa dön</a>)</p>
+
+## Dosya İşlemleri
+
+<img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/export-files.png" />
+Bu panelde kullanıcı istediği veriyi istediği dosya tipinde çıktı alabiliyor.<br/>
+<br/>
+Örneğin:<br/>
+-Tüm Öğrenciler<br/>
+-Teslim Tarihi Geçmiş Öğrenciler<br/>
+-Tüm Silinmiş Öğrenciler<br/>
+-Tüm Kitaplar<br/>
+-En Çok Okunan 10 Kitap</br>
+-Tüm Silinmiş Kitaplar<br/>
+
+Sağdaki kısımda ise üyeye özel çıktılar da alınabiliyor.</br>
+Örneğin:<br/>
+-Ödünç Aldığı Kitaplar<br/>
+-Teslim Ettiği Kitaplar<br/>
+-Teslim Tarihi Gecikmiş Kitaplar<br/>
+
+<p align="right">(<a href="#top">Başa dön</a>)</p>
+
 ### Teknolojiler
 
 * [.Net](https://docs.microsoft.com/tr-tr/dotnet/welcome)
