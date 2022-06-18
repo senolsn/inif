@@ -95,6 +95,11 @@ Kullanıcı şifresini unuttuğunda "Şifremi Unuttum" özelliğiyle beraber e-p
 Aynı şekilde "Kayıt Ol" sayfasında da kullanıcının girmiş olduğu e-posta adresine bir onay kodu gönderiliyor. Doğru bir şekilde giriş yapıldığında kullanıcı sisteme kaydediliyor.
 Buradaki e-posta kontrolleri okulumuz personellerinin sahip olduğu e-posta adreslerinin uzantılarına göre(...@uludag.edu.tr) yapılıyor.
 
+<br/><br/>
+Örnek onay kodu e-postası:
+<br/>
+<img width="500" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/verfication-mail.PNG" />
+
 <p align="right">(<a href="#top">Başa dön</a>)</p>
 
 ## Gösterge Paneli
@@ -283,7 +288,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## İletişim
 
-Emrecan AY - [@linkedin_handle](https://www.linkedin.com/in/emrecan-ay/) - ayemrecan.info@gmail.com
+Emrecan AY - [@linkedin](https://www.linkedin.com/in/emrecan-ay/) - ayemrecan.info@gmail.com
 
 Project Link: [https://github.com/emrecanAy/inif-assemsoft](https://github.com/emrecanAy/inif-assemsoft)
 
