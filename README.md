@@ -88,9 +88,13 @@
  <img width="500" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/login.jpg" />
 <img width="500" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/register.png" />
 </p>
-[![Giriş ve Kayıt Ol Sayfası]
+[Giriş ve Kayıt Ol]
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Uygulama açıldığında kullancıyı "Giriş Yap" sayfası karşılıyor. Burada kullanıcı e-posta ve şifresini girerek giriş yapıyor. 
+Kullanıcı şifresini unuttuğunda "Şifremi Unuttum" özelliğiyle beraber e-posta adresine gönderilen onay kodunu girerek şifresini güncelleyebiliyor. 
+Aynı şekilde "Kayıt Ol" sayfasında da kullanıcının girmiş olduğu e-posta adresine bir onay kodu gönderiliyor. Doğru bir şekilde giriş yapıldığında kullanıcı sisteme kaydediliyor.
+Buradaki e-posta kontrolleri okulumuz personellerinin sahip olduğu e-posta adreslerinin uzantılarına göre(...@uludag.edu.tr) yapılıyor.
+ `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
