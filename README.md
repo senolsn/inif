@@ -162,7 +162,7 @@ Solda listeden ise hangi kitabı ödünç almak istiyorsa arama yapılarak seçi
 Seçilen öğrencinin ve kitabın detay bilgileri sağdaki kısımda gözüküyor.
 Ek olarak sağ alt kısımda seçilen kitabın şu anda hangi üyelerde bulunduğu ve ne zaman teslim edecekleri bilgisi gösteriliyor.
 <br/>
-Buradaki ek özellikler şu şekilde:<br/>
+<h4>Buradaki ek özellikler şu şekilde:</h4><br/>
 -Eğer stokta olmayan bir kitap verilmek istenirse uyarı mesajı gösterilerek bu durum engelleniyor.<br/>
 -Aynı üye aynı kitabı tekrar tekrar ödünç alamıyor. Öncelikle ilk aldığını teslim etmesi bekleniyor.<br/>
 -Üye seçme kısmındaki çoklu seçim menüsünde öğrenci ve personel olarak iki seçenek bulunuyor. <br/>
