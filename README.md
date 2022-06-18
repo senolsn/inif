@@ -236,7 +236,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## İletişim
 
-Emrecan AY - [@linkedin](https://www.linkedin.com/in/emrecan-ay/) [@instagram](https://www.instagram.com/codemrecan/) - ayemrecan.info@gmail.com
+Emrecan AY (Fullstack Developer) - [@linkedin](https://www.linkedin.com/in/emrecan-ay/) [@instagram](https://www.instagram.com/codemrecan/) - ayemrecan.info@gmail.com
 
 Proje Link: [https://github.com/emrecanAy/inif-assemsoft](https://github.com/emrecanAy/inif-assemsoft)
 
