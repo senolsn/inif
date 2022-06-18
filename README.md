@@ -145,8 +145,8 @@ Kitap ekleme de olduğu gibi burada da çoklu seçimlere ekleme yapabilmek için
 
 ## Üye Listeleme
 
+<img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/list-personnel.png" />
 <img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/list-student.png" />
-<img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/list-book.png" />
 Bu panelde sistemde bulunan üyeleri listeleme işlemi yapılıyor.
 Kitaplar ad, yazar gibi sahip olduğu niteliklere göre aranabiliyor. Ek olarak bir tarih aralığı belirterek eklenme tarihlerine göre de filtrelenebiliyor. 
 
