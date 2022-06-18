@@ -81,7 +81,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Proje Hakkında
 
 
 <p float="left">
@@ -94,18 +94,19 @@ Uygulama açıldığında kullancıyı "Giriş Yap" sayfası karşılıyor. Bura
 Kullanıcı şifresini unuttuğunda "Şifremi Unuttum" özelliğiyle beraber e-posta adresine gönderilen onay kodunu girerek şifresini güncelleyebiliyor. 
 Aynı şekilde "Kayıt Ol" sayfasında da kullanıcının girmiş olduğu e-posta adresine bir onay kodu gönderiliyor. Doğru bir şekilde giriş yapıldığında kullanıcı sisteme kaydediliyor.
 Buradaki e-posta kontrolleri okulumuz personellerinin sahip olduğu e-posta adreslerinin uzantılarına göre(...@uludag.edu.tr) yapılıyor.
- `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+<p align="right">(<a href="#top">Başa dön</a>)</p>
 
 
-### Built With
 
-* [.Net](https://nextjs.org/)
-* [WinForms](https://reactjs.org/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
+### Teknolojiler
+
+* [.Net](https://docs.microsoft.com/tr-tr/dotnet/welcome)
+* [WinForms](https://docs.microsoft.com/tr-tr/dotnet/desktop/winforms/overview/?view=netdesktop-6.0)
+
+<p align="right">(<a href="#top">Başa dön</a>)</p>
 
 
 
