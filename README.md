@@ -88,7 +88,7 @@
  <img width="500" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/login.jpg" />
 <img width="500" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/register.png" />
 </p>
-[Giriş ve Kayıt Ol]
+### Giriş ve Kayıt Ol
 
 Uygulama açıldığında kullancıyı "Giriş Yap" sayfası karşılıyor. Burada kullanıcı e-posta ve şifresini girerek giriş yapıyor. 
 Kullanıcı şifresini unuttuğunda "Şifremi Unuttum" özelliğiyle beraber e-posta adresine gönderilen onay kodunu girerek şifresini güncelleyebiliyor. 
