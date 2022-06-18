@@ -7,7 +7,7 @@
     <img src="https://uludag.edu.tr/img/swglogolar/inegolIsletmeFak.svg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">INIF-Assemsoft</h3>
+<h3 align="center">INIF</h3>
 
   <p align="center">
     Uludağ Üniversitesi İnegöl İşletme Fakültesi'nde kullanılacak olan kütüphane yönetim sistemi uygulamasıdır.
