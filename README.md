@@ -182,7 +182,7 @@ Teslim alınacak kitap da sağ üstteki listeden seçiliyor. Seçilen kitabın d
 
 ## Sicil Sorgu İşlemleri
 
-<img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/deposit-book.png" />
+<img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/check-deposit-book.png" />
 Bu panelde hangi üye hangi kitapları almış, hangilerini teslim etmiş veya etmemiş bilgisi görülüyor.
 
 <p align="right">(<a href="#top">Başa dön</a>)</p>
