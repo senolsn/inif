@@ -231,7 +231,7 @@ Tarih aralığına göre filtrelebiliyor.
 
 <br/>
 <br/>
-<a href="https://github.com/emrecanAy/inif-assemsoft/tree/master/Exports" >Tüm örnek dosya çıktıları için tıklayın...</a>
+<a href="https://github.com/emrecanAy/inif-assemsoft/tree/master/Exports" target="_blank" >Tüm örnek dosya çıktıları için tıklayın...</a>
 
 <br/>
 <br/>
