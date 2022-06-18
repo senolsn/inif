@@ -257,7 +257,7 @@ Gidecek hatırlatma ve gecikme e-posta'larının günleri de ayarlanabiliyor.
 ise hatırlatma e-posta'sı gönderiliyor.
 <br/>
 Örnek gecikme e-postası:
-<img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/expired-mail.PNG" />
+<img width="500" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/expired-mail.PNG" />
 
 <p align="right">(<a href="#top">Başa dön</a>)</p>
 
