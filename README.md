@@ -88,7 +88,7 @@
  <img width="500" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/login.jpg" />
 <img width="500" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/register.png" />
 </p>
-### Giriş Yap - Kayıt Ol
+## Proje Hakkında
 
 Uygulama açıldığında kullancıyı "Giriş Yap" sayfası karşılıyor. Burada kullanıcı e-posta ve şifresini girerek giriş yapıyor. 
 Kullanıcı şifresini unuttuğunda "Şifremi Unuttum" özelliğiyle beraber e-posta adresine gönderilen onay kodunu girerek şifresini güncelleyebiliyor. 
@@ -97,8 +97,8 @@ Buradaki e-posta kontrolleri okulumuz personellerinin sahip olduğu e-posta adre
 
 <p align="right">(<a href="#top">Başa dön</a>)</p>
 
-<img width="500" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/register.png" />
-### Kontrol Paneli
+<img width="500" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/dashboard-closed.png" />
+## Proje Hakkında
 
 Bu panelde kullanıcıya kütüphane hakkındaki bilgiler dinamik olarak gösteriliyor.
 Sol menüde ise uygulamadaki diğer panellere erişim sağlanıyor.
