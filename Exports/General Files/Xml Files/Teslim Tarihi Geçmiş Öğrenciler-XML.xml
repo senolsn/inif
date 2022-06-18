@@ -1,0 +1,219 @@
+<?xml version="1.0" standalone="yes"?>
+<Ogrenciler>
+  <DepositBookDto>
+    <Id>30935f6f-f4a3-488d-a130-c977ac66a3dd</Id>
+    <Ogrenci>John Doe</Ogrenci>
+    <Kitap>Çile</Kitap>
+    <Yazar>Necip Fazil Kisakürek</Yazar>
+    <OlusturulmaTarihi>24.05.2022 14:57:29</OlusturulmaTarihi>
+    <OgrenciNo>2154785965</OgrenciNo>
+    <GecikmeGunu>-399</GecikmeGunu>
+  </DepositBookDto>
+  <DepositBookDto>
+    <Id>73d37174-393d-43d7-92e9-5de871875271</Id>
+    <Ogrenci>Mehmet Fidan</Ogrenci>
+    <Kitap>Linux Komut Satırı</Kitap>
+    <Yazar>Recaizade Mahmut Ekrem</Yazar>
+    <OlusturulmaTarihi>24.05.2022 14:58:09</OlusturulmaTarihi>
+    <OgrenciNo>132030062</OgrenciNo>
+    <GecikmeGunu>-19</GecikmeGunu>
+  </DepositBookDto>
+  <DepositBookDto>
+    <Id>7fad7ede-e5fe-4352-8769-df53f278adee</Id>
+    <Ogrenci>Mehmet Fidan</Ogrenci>
+    <Kitap>Çile</Kitap>
+    <Yazar>Necip Fazil Kisakürek</Yazar>
+    <OlusturulmaTarihi>24.05.2022 14:56:55</OlusturulmaTarihi>
+    <OgrenciNo>132030062</OgrenciNo>
+    <GecikmeGunu>-11</GecikmeGunu>
+  </DepositBookDto>
+  <DepositBookDto>
+    <Id>9705bc8b-653f-48cc-9133-71367e5fd04b</Id>
+    <Ogrenci>Saban Dönmez</Ogrenci>
+    <Kitap>Sefiller</Kitap>
+    <Yazar>Victor Hugo</Yazar>
+    <OlusturulmaTarihi>31.05.2022 14:32:04</OlusturulmaTarihi>
+    <OgrenciNo>132030018</OgrenciNo>
+    <GecikmeGunu>-7</GecikmeGunu>
+  </DepositBookDto>
+  <DepositBookDto>
+    <Id>d4a2b192-5ede-47a4-860b-f7eae4367ddd</Id>
+    <Ogrenci>Melike Yildiz</Ogrenci>
+    <Kitap>Araba Sevdası</Kitap>
+    <Yazar>Necip Fazil Kisakürek</Yazar>
+    <OlusturulmaTarihi>25.05.2022 19:21:43</OlusturulmaTarihi>
+    <OgrenciNo>132030019</OgrenciNo>
+    <GecikmeGunu>-24</GecikmeGunu>
+  </DepositBookDto>
+  <DepositBookDto>
+    <Id>f5648eb2-dcde-4d78-99f0-b8894129f696</Id>
+    <Ogrenci>John Doe</Ogrenci>
+    <Kitap>Linux Komut Satırı</Kitap>
+    <Yazar>Recaizade Mahmut Ekrem</Yazar>
+    <OlusturulmaTarihi>24.05.2022 14:58:04</OlusturulmaTarihi>
+    <OgrenciNo>2154785965</OgrenciNo>
+    <GecikmeGunu>-11</GecikmeGunu>
+  </DepositBookDto>
+  <DepositBookDto>
+    <Id>30935f6f-f4a3-488d-a130-c977ac66a3dd</Id>
+    <Ogrenci>John Doe</Ogrenci>
+    <Kitap>Çile</Kitap>
+    <Yazar>Necip Fazil Kisakürek</Yazar>
+    <OlusturulmaTarihi>24.05.2022 14:57:29</OlusturulmaTarihi>
+    <OgrenciNo>2154785965</OgrenciNo>
+    <GecikmeGunu>-399</GecikmeGunu>
+  </DepositBookDto>
+  <DepositBookDto>
+    <Id>73d37174-393d-43d7-92e9-5de871875271</Id>
+    <Ogrenci>Mehmet Fidan</Ogrenci>
+    <Kitap>Linux Komut Satırı</Kitap>
+    <Yazar>Recaizade Mahmut Ekrem</Yazar>
+    <OlusturulmaTarihi>24.05.2022 14:58:09</OlusturulmaTarihi>
+    <OgrenciNo>132030062</OgrenciNo>
+    <GecikmeGunu>-19</GecikmeGunu>
+  </DepositBookDto>
+  <DepositBookDto>
+    <Id>7fad7ede-e5fe-4352-8769-df53f278adee</Id>
+    <Ogrenci>Mehmet Fidan</Ogrenci>
+    <Kitap>Çile</Kitap>
+    <Yazar>Necip Fazil Kisakürek</Yazar>
+    <OlusturulmaTarihi>24.05.2022 14:56:55</OlusturulmaTarihi>
+    <OgrenciNo>132030062</OgrenciNo>
+    <GecikmeGunu>-11</GecikmeGunu>
+  </DepositBookDto>
+  <DepositBookDto>
+    <Id>9705bc8b-653f-48cc-9133-71367e5fd04b</Id>
+    <Ogrenci>Saban Dönmez</Ogrenci>
+    <Kitap>Sefiller</Kitap>
+    <Yazar>Victor Hugo</Yazar>
+    <OlusturulmaTarihi>31.05.2022 14:32:04</OlusturulmaTarihi>
+    <OgrenciNo>132030018</OgrenciNo>
+    <GecikmeGunu>-7</GecikmeGunu>
+  </DepositBookDto>
+  <DepositBookDto>
+    <Id>d4a2b192-5ede-47a4-860b-f7eae4367ddd</Id>
+    <Ogrenci>Melike Yildiz</Ogrenci>
+    <Kitap>Araba Sevdası</Kitap>
+    <Yazar>Necip Fazil Kisakürek</Yazar>
+    <OlusturulmaTarihi>25.05.2022 19:21:43</OlusturulmaTarihi>
+    <OgrenciNo>132030019</OgrenciNo>
+    <GecikmeGunu>-24</GecikmeGunu>
+  </DepositBookDto>
+  <DepositBookDto>
+    <Id>f5648eb2-dcde-4d78-99f0-b8894129f696</Id>
+    <Ogrenci>John Doe</Ogrenci>
+    <Kitap>Linux Komut Satırı</Kitap>
+    <Yazar>Recaizade Mahmut Ekrem</Yazar>
+    <OlusturulmaTarihi>24.05.2022 14:58:04</OlusturulmaTarihi>
+    <OgrenciNo>2154785965</OgrenciNo>
+    <GecikmeGunu>-11</GecikmeGunu>
+  </DepositBookDto>
+  <DepositBookDto>
+    <Id>30935f6f-f4a3-488d-a130-c977ac66a3dd</Id>
+    <Ogrenci>John Doe</Ogrenci>
+    <Kitap>Çile</Kitap>
+    <Yazar>Necip Fazil Kisakürek</Yazar>
+    <OlusturulmaTarihi>24.05.2022 14:57:29</OlusturulmaTarihi>
+    <OgrenciNo>2154785965</OgrenciNo>
+    <GecikmeGunu>-399</GecikmeGunu>
+  </DepositBookDto>
+  <DepositBookDto>
+    <Id>73d37174-393d-43d7-92e9-5de871875271</Id>
+    <Ogrenci>Mehmet Fidan</Ogrenci>
+    <Kitap>Linux Komut Satırı</Kitap>
+    <Yazar>Recaizade Mahmut Ekrem</Yazar>
+    <OlusturulmaTarihi>24.05.2022 14:58:09</OlusturulmaTarihi>
+    <OgrenciNo>132030062</OgrenciNo>
+    <GecikmeGunu>-19</GecikmeGunu>
+  </DepositBookDto>
+  <DepositBookDto>
+    <Id>7fad7ede-e5fe-4352-8769-df53f278adee</Id>
+    <Ogrenci>Mehmet Fidan</Ogrenci>
+    <Kitap>Çile</Kitap>
+    <Yazar>Necip Fazil Kisakürek</Yazar>
+    <OlusturulmaTarihi>24.05.2022 14:56:55</OlusturulmaTarihi>
+    <OgrenciNo>132030062</OgrenciNo>
+    <GecikmeGunu>-11</GecikmeGunu>
+  </DepositBookDto>
+  <DepositBookDto>
+    <Id>9705bc8b-653f-48cc-9133-71367e5fd04b</Id>
+    <Ogrenci>Saban Dönmez</Ogrenci>
+    <Kitap>Sefiller</Kitap>
+    <Yazar>Victor Hugo</Yazar>
+    <OlusturulmaTarihi>31.05.2022 14:32:04</OlusturulmaTarihi>
+    <OgrenciNo>132030018</OgrenciNo>
+    <GecikmeGunu>-7</GecikmeGunu>
+  </DepositBookDto>
+  <DepositBookDto>
+    <Id>d4a2b192-5ede-47a4-860b-f7eae4367ddd</Id>
+    <Ogrenci>Melike Yildiz</Ogrenci>
+    <Kitap>Araba Sevdası</Kitap>
+    <Yazar>Necip Fazil Kisakürek</Yazar>
+    <OlusturulmaTarihi>25.05.2022 19:21:43</OlusturulmaTarihi>
+    <OgrenciNo>132030019</OgrenciNo>
+    <GecikmeGunu>-24</GecikmeGunu>
+  </DepositBookDto>
+  <DepositBookDto>
+    <Id>f5648eb2-dcde-4d78-99f0-b8894129f696</Id>
+    <Ogrenci>John Doe</Ogrenci>
+    <Kitap>Linux Komut Satırı</Kitap>
+    <Yazar>Recaizade Mahmut Ekrem</Yazar>
+    <OlusturulmaTarihi>24.05.2022 14:58:04</OlusturulmaTarihi>
+    <OgrenciNo>2154785965</OgrenciNo>
+    <GecikmeGunu>-11</GecikmeGunu>
+  </DepositBookDto>
+  <DepositBookDto>
+    <Id>30935f6f-f4a3-488d-a130-c977ac66a3dd</Id>
+    <Ogrenci>John Doe</Ogrenci>
+    <Kitap>Çile</Kitap>
+    <Yazar>Necip Fazil Kisakürek</Yazar>
+    <OlusturulmaTarihi>24.05.2022 14:57:29</OlusturulmaTarihi>
+    <OgrenciNo>2154785965</OgrenciNo>
+    <GecikmeGunu>-399</GecikmeGunu>
+  </DepositBookDto>
+  <DepositBookDto>
+    <Id>73d37174-393d-43d7-92e9-5de871875271</Id>
+    <Ogrenci>Mehmet Fidan</Ogrenci>
+    <Kitap>Linux Komut Satırı</Kitap>
+    <Yazar>Recaizade Mahmut Ekrem</Yazar>
+    <OlusturulmaTarihi>24.05.2022 14:58:09</OlusturulmaTarihi>
+    <OgrenciNo>132030062</OgrenciNo>
+    <GecikmeGunu>-19</GecikmeGunu>
+  </DepositBookDto>
+  <DepositBookDto>
+    <Id>7fad7ede-e5fe-4352-8769-df53f278adee</Id>
+    <Ogrenci>Mehmet Fidan</Ogrenci>
+    <Kitap>Çile</Kitap>
+    <Yazar>Necip Fazil Kisakürek</Yazar>
+    <OlusturulmaTarihi>24.05.2022 14:56:55</OlusturulmaTarihi>
+    <OgrenciNo>132030062</OgrenciNo>
+    <GecikmeGunu>-11</GecikmeGunu>
+  </DepositBookDto>
+  <DepositBookDto>
+    <Id>9705bc8b-653f-48cc-9133-71367e5fd04b</Id>
+    <Ogrenci>Saban Dönmez</Ogrenci>
+    <Kitap>Sefiller</Kitap>
+    <Yazar>Victor Hugo</Yazar>
+    <OlusturulmaTarihi>31.05.2022 14:32:04</OlusturulmaTarihi>
+    <OgrenciNo>132030018</OgrenciNo>
+    <GecikmeGunu>-7</GecikmeGunu>
+  </DepositBookDto>
+  <DepositBookDto>
+    <Id>d4a2b192-5ede-47a4-860b-f7eae4367ddd</Id>
+    <Ogrenci>Melike Yildiz</Ogrenci>
+    <Kitap>Araba Sevdası</Kitap>
+    <Yazar>Necip Fazil Kisakürek</Yazar>
+    <OlusturulmaTarihi>25.05.2022 19:21:43</OlusturulmaTarihi>
+    <OgrenciNo>132030019</OgrenciNo>
+    <GecikmeGunu>-24</GecikmeGunu>
+  </DepositBookDto>
+  <DepositBookDto>
+    <Id>f5648eb2-dcde-4d78-99f0-b8894129f696</Id>
+    <Ogrenci>John Doe</Ogrenci>
+    <Kitap>Linux Komut Satırı</Kitap>
+    <Yazar>Recaizade Mahmut Ekrem</Yazar>
+    <OlusturulmaTarihi>24.05.2022 14:58:04</OlusturulmaTarihi>
+    <OgrenciNo>2154785965</OgrenciNo>
+    <GecikmeGunu>-11</GecikmeGunu>
+  </DepositBookDto>
+</Ogrenciler>

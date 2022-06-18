@@ -1,0 +1,47 @@
+ [
+    {
+      "id": "00f692af-d132-45f1-b389-c035ef857ea2",
+      "AdSoyad": "Esref Amca",
+      "OkulNo": "132030029",
+      "E-Posta": "132030029@ogr.uludag.edu.tr",
+      "Bolum": "Isletme",
+      "OlusturulmaTarihi": "2022-05-29T16:06:14",
+      "Fakulte": "INIF"
+    },
+    {
+      "id": "689a372a-116c-436b-9c18-1f9f92f5c8b7",
+      "AdSoyad": "TestOgr Test",
+      "OkulNo": "132030017",
+      "E-Posta": "132030017@ogr.uludag.edu.tr",
+      "Bolum": "Yönetim Bilisim Sistemleri",
+      "OlusturulmaTarihi": "2022-06-01T13:15:38",
+      "Fakulte": "INIF"
+    },
+    {
+      "id": "6b932b92-32c2-45ff-89d9-edf55400ca3c",
+      "AdSoyad": "Abdül Hakim",
+      "OkulNo": "1213124124",
+      "E-Posta": "1213124124@ogr.uludag.edu.tr",
+      "Bolum": "Isletme",
+      "OlusturulmaTarihi": "2022-06-01T15:47:11",
+      "Fakulte": "Meslek Yüksek Okulu"
+    },
+    {
+      "id": "a37de49c-b4a9-48a5-a46c-ab7830d5708b",
+      "AdSoyad": "test test",
+      "OkulNo": "1561565",
+      "E-Posta": "1561565@ogr.uludag.edu.tr",
+      "Bolum": "Uluslararasi Iletisim ve Ticaret",
+      "OlusturulmaTarihi": "2022-06-03T17:31:40",
+      "Fakulte": "Meslek Yüksek Okulu"
+    },
+    {
+      "id": "dc1a3831-ca84-408b-b14c-17343bb3e982",
+      "AdSoyad": "Dardan Milly",
+      "OkulNo": "1323231231",
+      "E-Posta": "1323231231@ogr.uludag.edu.tr",
+      "Bolum": "Uluslararasi Iletisim ve Ticaret",
+      "OlusturulmaTarihi": "2022-06-01T15:49:31",
+      "Fakulte": "Isletme"
+    }
+  ]

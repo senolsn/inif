@@ -1,0 +1,110 @@
+ [
+    {
+      "Id": "30935f6f-f4a3-488d-a130-c977ac66a3dd",
+      "Ogrenci": "John Doe",
+      "Kitap": "Çile",
+      "Yazar": "Necip Fazil Kisakürek",
+      "OlusturulmaTarihi": "24.05.2022 14:57:29",
+      "OgrenciNo": "2154785965",
+      "GecikmeGunu": "-399"
+    },
+    {
+      "Id": "73d37174-393d-43d7-92e9-5de871875271",
+      "Ogrenci": "Mehmet Fidan",
+      "Kitap": "Linux Komut Satırı",
+      "Yazar": "Recaizade Mahmut Ekrem",
+      "OlusturulmaTarihi": "24.05.2022 14:58:09",
+      "OgrenciNo": "132030062",
+      "GecikmeGunu": "-19"
+    },
+    {
+      "Id": "7fad7ede-e5fe-4352-8769-df53f278adee",
+      "Ogrenci": "Mehmet Fidan",
+      "Kitap": "Çile",
+      "Yazar": "Necip Fazil Kisakürek",
+      "OlusturulmaTarihi": "24.05.2022 14:56:55",
+      "OgrenciNo": "132030062",
+      "GecikmeGunu": "-11"
+    },
+    {
+      "Id": "9705bc8b-653f-48cc-9133-71367e5fd04b",
+      "Ogrenci": "Saban Dönmez",
+      "Kitap": "Sefiller",
+      "Yazar": "Victor Hugo",
+      "OlusturulmaTarihi": "31.05.2022 14:32:04",
+      "OgrenciNo": "132030018",
+      "GecikmeGunu": "-7"
+    },
+    {
+      "Id": "d4a2b192-5ede-47a4-860b-f7eae4367ddd",
+      "Ogrenci": "Melike Yildiz",
+      "Kitap": "Araba Sevdası",
+      "Yazar": "Necip Fazil Kisakürek",
+      "OlusturulmaTarihi": "25.05.2022 19:21:43",
+      "OgrenciNo": "132030019",
+      "GecikmeGunu": "-24"
+    },
+    {
+      "Id": "f5648eb2-dcde-4d78-99f0-b8894129f696",
+      "Ogrenci": "John Doe",
+      "Kitap": "Linux Komut Satırı",
+      "Yazar": "Recaizade Mahmut Ekrem",
+      "OlusturulmaTarihi": "24.05.2022 14:58:04",
+      "OgrenciNo": "2154785965",
+      "GecikmeGunu": "-11"
+    },
+    {
+      "Id": "30935f6f-f4a3-488d-a130-c977ac66a3dd",
+      "Ogrenci": "John Doe",
+      "Kitap": "Çile",
+      "Yazar": "Necip Fazil Kisakürek",
+      "OlusturulmaTarihi": "24.05.2022 14:57:29",
+      "OgrenciNo": "2154785965",
+      "GecikmeGunu": "-399"
+    },
+    {
+      "Id": "73d37174-393d-43d7-92e9-5de871875271",
+      "Ogrenci": "Mehmet Fidan",
+      "Kitap": "Linux Komut Satırı",
+      "Yazar": "Recaizade Mahmut Ekrem",
+      "OlusturulmaTarihi": "24.05.2022 14:58:09",
+      "OgrenciNo": "132030062",
+      "GecikmeGunu": "-19"
+    },
+    {
+      "Id": "7fad7ede-e5fe-4352-8769-df53f278adee",
+      "Ogrenci": "Mehmet Fidan",
+      "Kitap": "Çile",
+      "Yazar": "Necip Fazil Kisakürek",
+      "OlusturulmaTarihi": "24.05.2022 14:56:55",
+      "OgrenciNo": "132030062",
+      "GecikmeGunu": "-11"
+    },
+    {
+      "Id": "9705bc8b-653f-48cc-9133-71367e5fd04b",
+      "Ogrenci": "Saban Dönmez",
+      "Kitap": "Sefiller",
+      "Yazar": "Victor Hugo",
+      "OlusturulmaTarihi": "31.05.2022 14:32:04",
+      "OgrenciNo": "132030018",
+      "GecikmeGunu": "-7"
+    },
+    {
+      "Id": "d4a2b192-5ede-47a4-860b-f7eae4367ddd",
+      "Ogrenci": "Melike Yildiz",
+      "Kitap": "Araba Sevdası",
+      "Yazar": "Necip Fazil Kisakürek",
+      "OlusturulmaTarihi": "25.05.2022 19:21:43",
+      "OgrenciNo": "132030019",
+      "GecikmeGunu": "-24"
+    },
+    {
+      "Id": "f5648eb2-dcde-4d78-99f0-b8894129f696",
+      "Ogrenci": "John Doe",
+      "Kitap": "Linux Komut Satırı",
+      "Yazar": "Recaizade Mahmut Ekrem",
+      "OlusturulmaTarihi": "24.05.2022 14:58:04",
+      "OgrenciNo": "2154785965",
+      "GecikmeGunu": "-11"
+    }
+  ]

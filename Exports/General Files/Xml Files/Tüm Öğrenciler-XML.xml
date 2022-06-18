@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes"?>
+<Ogrenciler>
+  <Table1>
+    <id>0940c3a5-9e25-458c-b641-0488add980c8</id>
+    <AdSoyad>Arda Ünal</AdSoyad>
+    <OkulNo>132030040</OkulNo>
+    <E-Posta>132030040@ogr.uludag.edu.tr</E-Posta>
+    <Bolum>Uluslararasi Ticaret ve Isletme</Bolum>
+    <OlusturulmaTarihi>2022-05-25T03:40:34+03:00</OlusturulmaTarihi>
+    <Fakulte>INIF</Fakulte>
+  </Table1>
+  <Table1>
+    <id>142f477a-3e16-4ce0-9a07-c40593e73bdc</id>
+    <AdSoyad>Ariq Naufal</AdSoyad>
+    <OkulNo>131830102</OkulNo>
+    <E-Posta>131830102@ogr.uludag.edu.tr</E-Posta>
+    <Bolum>Yönetim Bilisim Sistemleri</Bolum>
+    <OlusturulmaTarihi>2022-05-31T16:21:12+03:00</OlusturulmaTarihi>
+    <Fakulte>Isletme</Fakulte>
+  </Table1>
+  <Table1>
+    <id>1c80b8e0-c226-401e-8382-1d3161fba9b0</id>
+    <AdSoyad>Melike Yildiz</AdSoyad>
+    <OkulNo>132030019</OkulNo>
+    <E-Posta>132030019@ogr.uludag.edu.tr</E-Posta>
+    <Bolum>Yönetim Bilisim Sistemleri</Bolum>
+    <OlusturulmaTarihi>2022-05-25T19:20:02+03:00</OlusturulmaTarihi>
+    <Fakulte>INIF</Fakulte>
+  </Table1>
+  <Table1>
+    <id>2db34dbe-6769-4d2d-a8ad-375f155c6096</id>
+    <AdSoyad>Berkay Gürcan</AdSoyad>
+    <OkulNo>132030022</OkulNo>
+    <E-Posta>132030022@ogr.uludag.edu.tr</E-Posta>
+    <Bolum>Yönetim Bilisim Sistemleri</Bolum>
+    <OlusturulmaTarihi>2022-06-02T12:52:42+03:00</OlusturulmaTarihi>
+    <Fakulte>INIF</Fakulte>
+  </Table1>
+  <Table1>
+    <id>509464f3-d161-4e08-9ae7-20443071a65f</id>
+    <AdSoyad>Emco Ayo</AdSoyad>
+    <OkulNo>132030027</OkulNo>
+    <E-Posta>codemrecan@gmail.com</E-Posta>
+    <Bolum>Iktisat</Bolum>
+    <OlusturulmaTarihi>2022-05-31T15:16:26+03:00</OlusturulmaTarihi>
+    <Fakulte>Isletme</Fakulte>
+  </Table1>
+  <Table1>
+    <id>563609b8-8f5b-4216-9c5f-26ced3d45742</id>
+    <AdSoyad>John Doe</AdSoyad>
+    <OkulNo>2154785965</OkulNo>
+    <E-Posta>test@gmail.com</E-Posta>
+    <Bolum>Uluslararasi Iletisim ve Ticaret</Bolum>
+    <OlusturulmaTarihi>2022-05-24T14:55:32+03:00</OlusturulmaTarihi>
+    <Fakulte>INIF</Fakulte>
+  </Table1>
+  <Table1>
+    <id>655c6356-5c21-41f8-8aca-fc61732c07e0</id>
+    <AdSoyad>Emrecan Ay</AdSoyad>
+    <OkulNo>132030027</OkulNo>
+    <E-Posta>132030027@ogr.uludag.edu.tr</E-Posta>
+    <Bolum>Yönetim Bilisim Sistemleri</Bolum>
+    <OlusturulmaTarihi>2022-05-22T19:05:40+03:00</OlusturulmaTarihi>
+    <Fakulte>INIF</Fakulte>
+  </Table1>
+  <Table1>
+    <id>9fec4a61-64ce-4cd2-bf38-241708f0edf0</id>
+    <AdSoyad>Saban Dönmez</AdSoyad>
+    <OkulNo>132030018</OkulNo>
+    <E-Posta>132030018@ogr.uludag.edu.tr</E-Posta>
+    <Bolum>Yönetim Bilisim Sistemleri</Bolum>
+    <OlusturulmaTarihi>2022-05-31T04:12:12+03:00</OlusturulmaTarihi>
+    <Fakulte>INIF</Fakulte>
+  </Table1>
+  <Table1>
+    <id>afa2c3af-4629-45f0-aee0-f4f2ca2f27e4</id>
+    <AdSoyad>Senol Sen</AdSoyad>
+    <OkulNo>132030026</OkulNo>
+    <E-Posta>132030026@ogr.uludag.edu.tr</E-Posta>
+    <Bolum>Iktisat</Bolum>
+    <OlusturulmaTarihi>2022-05-30T19:05:16+03:00</OlusturulmaTarihi>
+    <Fakulte>INIF</Fakulte>
+  </Table1>
+  <Table1>
+    <id>c5e89182-4651-412e-8c2b-9730d975fecd</id>
+    <AdSoyad>Mehmet Fidan</AdSoyad>
+    <OkulNo>132030062</OkulNo>
+    <E-Posta>132030062@ogr.uludag.edu.tr</E-Posta>
+    <Bolum>Isletme</Bolum>
+    <OlusturulmaTarihi>2022-05-24T14:56:13+03:00</OlusturulmaTarihi>
+    <Fakulte>INIF</Fakulte>
+  </Table1>
+</Ogrenciler>

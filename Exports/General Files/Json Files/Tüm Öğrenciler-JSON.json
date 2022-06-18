@@ -1,0 +1,92 @@
+ [
+    {
+      "id": "0940c3a5-9e25-458c-b641-0488add980c8",
+      "AdSoyad": "Arda Ünal",
+      "OkulNo": "132030040",
+      "E-Posta": "132030040@ogr.uludag.edu.tr",
+      "Bolum": "Uluslararasi Ticaret ve Isletme",
+      "OlusturulmaTarihi": "2022-05-25T03:40:34",
+      "Fakulte": "INIF"
+    },
+    {
+      "id": "142f477a-3e16-4ce0-9a07-c40593e73bdc",
+      "AdSoyad": "Ariq Naufal",
+      "OkulNo": "131830102",
+      "E-Posta": "131830102@ogr.uludag.edu.tr",
+      "Bolum": "Yönetim Bilisim Sistemleri",
+      "OlusturulmaTarihi": "2022-05-31T16:21:12",
+      "Fakulte": "Isletme"
+    },
+    {
+      "id": "1c80b8e0-c226-401e-8382-1d3161fba9b0",
+      "AdSoyad": "Melike Yildiz",
+      "OkulNo": "132030019",
+      "E-Posta": "132030019@ogr.uludag.edu.tr",
+      "Bolum": "Yönetim Bilisim Sistemleri",
+      "OlusturulmaTarihi": "2022-05-25T19:20:02",
+      "Fakulte": "INIF"
+    },
+    {
+      "id": "2db34dbe-6769-4d2d-a8ad-375f155c6096",
+      "AdSoyad": "Berkay Gürcan",
+      "OkulNo": "132030022",
+      "E-Posta": "132030022@ogr.uludag.edu.tr",
+      "Bolum": "Yönetim Bilisim Sistemleri",
+      "OlusturulmaTarihi": "2022-06-02T12:52:42",
+      "Fakulte": "INIF"
+    },
+    {
+      "id": "509464f3-d161-4e08-9ae7-20443071a65f",
+      "AdSoyad": "Emco Ayo",
+      "OkulNo": "132030027",
+      "E-Posta": "codemrecan@gmail.com",
+      "Bolum": "Iktisat",
+      "OlusturulmaTarihi": "2022-05-31T15:16:26",
+      "Fakulte": "Isletme"
+    },
+    {
+      "id": "563609b8-8f5b-4216-9c5f-26ced3d45742",
+      "AdSoyad": "John Doe",
+      "OkulNo": "2154785965",
+      "E-Posta": "test@gmail.com",
+      "Bolum": "Uluslararasi Iletisim ve Ticaret",
+      "OlusturulmaTarihi": "2022-05-24T14:55:32",
+      "Fakulte": "INIF"
+    },
+    {
+      "id": "655c6356-5c21-41f8-8aca-fc61732c07e0",
+      "AdSoyad": "Emrecan Ay",
+      "OkulNo": "132030027",
+      "E-Posta": "132030027@ogr.uludag.edu.tr",
+      "Bolum": "Yönetim Bilisim Sistemleri",
+      "OlusturulmaTarihi": "2022-05-22T19:05:40",
+      "Fakulte": "INIF"
+    },
+    {
+      "id": "9fec4a61-64ce-4cd2-bf38-241708f0edf0",
+      "AdSoyad": "Saban Dönmez",
+      "OkulNo": "132030018",
+      "E-Posta": "132030018@ogr.uludag.edu.tr",
+      "Bolum": "Yönetim Bilisim Sistemleri",
+      "OlusturulmaTarihi": "2022-05-31T04:12:12",
+      "Fakulte": "INIF"
+    },
+    {
+      "id": "afa2c3af-4629-45f0-aee0-f4f2ca2f27e4",
+      "AdSoyad": "Senol Sen",
+      "OkulNo": "132030026",
+      "E-Posta": "132030026@ogr.uludag.edu.tr",
+      "Bolum": "Iktisat",
+      "OlusturulmaTarihi": "2022-05-30T19:05:16",
+      "Fakulte": "INIF"
+    },
+    {
+      "id": "c5e89182-4651-412e-8c2b-9730d975fecd",
+      "AdSoyad": "Mehmet Fidan",
+      "OkulNo": "132030062",
+      "E-Posta": "132030062@ogr.uludag.edu.tr",
+      "Bolum": "Isletme",
+      "OlusturulmaTarihi": "2022-05-24T14:56:13",
+      "Fakulte": "INIF"
+    }
+  ]

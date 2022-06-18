@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<OduncAlinanlar>
+  <Table1>
+    <Id>73d37174-393d-43d7-92e9-5de871875271</Id>
+    <Ogrenci>Mehmet Fidan</Ogrenci>
+    <Kitap>Linux Komut Satırı</Kitap>
+    <Yazar>Recaizade Mahmut Ekrem</Yazar>
+    <AlinmaTarihi>2022-05-16T14:58:08+03:00</AlinmaTarihi>
+  </Table1>
+  <Table1>
+    <Id>7fad7ede-e5fe-4352-8769-df53f278adee</Id>
+    <Ogrenci>Mehmet Fidan</Ogrenci>
+    <Kitap>Çile</Kitap>
+    <Yazar>Necip Fazil Kisakürek</Yazar>
+    <AlinmaTarihi>2022-05-24T14:56:53+03:00</AlinmaTarihi>
+  </Table1>
+</OduncAlinanlar>

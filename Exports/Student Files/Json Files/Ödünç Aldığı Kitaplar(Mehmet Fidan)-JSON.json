@@ -1,0 +1,16 @@
+ [
+    {
+      "Id": "73d37174-393d-43d7-92e9-5de871875271",
+      "Ogrenci": "Mehmet Fidan",
+      "Kitap": "Linux Komut Satırı",
+      "Yazar": "Recaizade Mahmut Ekrem",
+      "AlinmaTarihi": "2022-05-16T14:58:08"
+    },
+    {
+      "Id": "7fad7ede-e5fe-4352-8769-df53f278adee",
+      "Ogrenci": "Mehmet Fidan",
+      "Kitap": "Çile",
+      "Yazar": "Necip Fazil Kisakürek",
+      "AlinmaTarihi": "2022-05-24T14:56:53"
+    }
+  ]

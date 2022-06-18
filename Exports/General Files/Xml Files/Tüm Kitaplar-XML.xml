@@ -1,0 +1,1773 @@
+<?xml version="1.0" standalone="yes"?>
+<Kitaplar>
+  <Table1>
+    <id>011e9a54-c88d-45dd-8c70-3377b6962874</id>
+    <bookName>Konuşan Kaftan</bookName>
+    <authorFullName>Kalman  Mikszath</authorFullName>
+    <publisherName>Mavi Çati Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>144</pageCount>
+    <isbnNumber>9789752401341</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>50</stockCount>
+    <shelf>A1</shelf>
+    <interpreterName>Sadrettin Karatay</interpreterName>
+    <createdAt>2022-05-30T21:48:20+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>01b5c5fa-280e-4627-a927-28c4b2f18eae</id>
+    <bookName>A dan Z ye Ece Ayhan</bookName>
+    <authorFullName>Ahmet  Soysal</authorFullName>
+    <publisherName>Yapi Kredi Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Biyografi</categoryName>
+    <pageCount>50</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>2003-05-31T00:00:00+03:00</publishDate>
+    <stockCount>12</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T02:30:27+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>05372297-1e7a-4b13-8568-57a6c5f120e9</id>
+    <bookName>1984</bookName>
+    <authorFullName>George Orwell</authorFullName>
+    <publisherName>Ay Yayinevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Yabanci Edebiyat</categoryName>
+    <pageCount>352</pageCount>
+    <isbnNumber>9789750718533</isbnNumber>
+    <publishDate>2021-06-24T00:00:00+03:00</publishDate>
+    <stockCount>22</stockCount>
+    <shelf>A1</shelf>
+    <interpreterName>Celal Üster</interpreterName>
+    <createdAt>2022-05-27T22:14:53+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>0726a204-a253-4629-909c-c974e751411d</id>
+    <bookName>Philebos</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Cumhuriyet yayinevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>127</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1998-09-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Sabri Esat Siyavuslugil</interpreterName>
+    <createdAt>2022-05-31T02:47:25+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>07f3e712-1bcc-4129-822a-8f642e9b8c20</id>
+    <bookName>Cankaya</bookName>
+    <authorFullName>Falih Rifki Atay</authorFullName>
+    <publisherName>Pozitif Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Turk Tarihi</categoryName>
+    <pageCount>159</pageCount>
+    <isbnNumber>9789756461051</isbnNumber>
+    <publishDate>1999-06-09T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T02:25:49+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>0b071602-e1d1-4d5b-ba5f-84a47cc8b29e</id>
+    <bookName>Hayvan Çiftliği</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Çilek Yayinevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Yabanci Edebiyat</categoryName>
+    <pageCount>152</pageCount>
+    <isbnNumber>9789750719387</isbnNumber>
+    <publishDate>2022-05-29T00:00:00+03:00</publishDate>
+    <stockCount>15</stockCount>
+    <shelf>A2</shelf>
+    <interpreterName>Celal Üster</interpreterName>
+    <createdAt>2022-05-29T05:06:06+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>0b4d7cf0-d31d-4c06-b043-ba8c043dfbc5</id>
+    <bookName>Bayazit</bookName>
+    <authorFullName>Racine Racine</authorFullName>
+    <publisherName>Mitos Boyut Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>112</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>2022-05-31T00:00:00+03:00</publishDate>
+    <stockCount>0</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Resat Nuri Darago</interpreterName>
+    <createdAt>2022-05-31T03:36:47+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>0e9f3428-93b7-4b2f-baf4-7143ab1c14df</id>
+    <bookName>Raporlama Teknikleri</bookName>
+    <authorFullName>MICHAEL  THOMSETT</authorFullName>
+    <publisherName>Epsilon Yayinevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Isletme</categoryName>
+    <pageCount>176</pageCount>
+    <isbnNumber>975331034</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>7</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Işın Tuzcular</interpreterName>
+    <createdAt>2022-05-30T21:33:43+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>0fd791d8-e3f1-4295-8391-edd3b3b4c35a</id>
+    <bookName>Turne Mektupları</bookName>
+    <authorFullName>Ahmet Erol </authorFullName>
+    <publisherName>Yapi Kredi Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>88</pageCount>
+    <isbnNumber>9789753637947</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>C1</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-30T22:39:02+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>157e4ecd-500f-402b-8181-a65a9a3f3877</id>
+    <bookName>Tiryaki Sözleri </bookName>
+    <authorFullName>Cenap Sehabettin</authorFullName>
+    <publisherName>Maviçati Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>58</pageCount>
+    <isbnNumber>9752401384</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>0</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-30T23:44:19+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>16f750e3-240f-4087-bd7f-55f44294b7ea</id>
+    <bookName>Mukavemet</bookName>
+    <authorFullName>Tekin  Ozbek</authorFullName>
+    <publisherName>Birsen Yayinevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Makina</categoryName>
+    <pageCount>186</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1998-09-28T00:00:00+03:00</publishDate>
+    <stockCount>2</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T14:44:38+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>17626a1c-263e-40c8-a412-c0fffd314ba2</id>
+    <bookName>İcra Hukukunda İtiraz</bookName>
+    <authorFullName>Talih Uyar</authorFullName>
+    <publisherName>Bilge Yayinevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hukuk</categoryName>
+    <pageCount>1103</pageCount>
+    <isbnNumber>1</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>0</stockCount>
+    <shelf>B3</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-30T22:53:01+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>18605d15-ba12-4d3a-aec5-9b828a047ed5</id>
+    <bookName>Okuk Oncesi Egitim 2</bookName>
+    <authorFullName>Dr. Neriman Aral Dr. Adalet Kandir</authorFullName>
+    <publisherName>Ya-pa Yayincilik</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Cocuk Gelisimi</categoryName>
+    <pageCount>104</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>2001-07-05T00:00:00+03:00</publishDate>
+    <stockCount>2</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T03:15:15+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>18de126f-1d18-4f1f-96ca-7caa62de38c2</id>
+    <bookName>Hidrolik Kumanda Sistemleri</bookName>
+    <authorFullName>Mehmet Emin Zorkun</authorFullName>
+    <publisherName>Milli Egitim Basimevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Makina</categoryName>
+    <pageCount>274</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1979-05-31T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T01:47:20+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>1e0384e1-cc09-49d9-80ba-639ec699b55b</id>
+    <bookName>Goriot Baba</bookName>
+    <authorFullName>Honore de Balzac </authorFullName>
+    <publisherName>Is Bankasi Kültür Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>288</pageCount>
+    <isbnNumber>6052958278</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>C1</shelf>
+    <interpreterName />
+    <createdAt>2022-05-30T23:55:48+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>1eb550b3-2887-434c-99db-c9f6421b76bd</id>
+    <bookName>Taras Bulba</bookName>
+    <authorFullName>Nikolay Vasilyeviç Gogol</authorFullName>
+    <publisherName>Oda Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>94</pageCount>
+    <isbnNumber>9789753852692</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>A1</shelf>
+    <interpreterName>MEHMET ÖZGÜL</interpreterName>
+    <createdAt>2022-05-30T21:58:47+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>2109933b-aa20-417e-b733-f9ba577dc0f2</id>
+    <bookName>Linux Komut Satırı</bookName>
+    <authorFullName>Recaizade Mahmut Ekrem</authorFullName>
+    <publisherName>Çilek Yayinevi</publisherName>
+    <language>Arapça</language>
+    <categoryName>Yabanci Edebiyat</categoryName>
+    <pageCount>65</pageCount>
+    <isbnNumber>54125</isbnNumber>
+    <publishDate>2022-05-24T00:00:00+03:00</publishDate>
+    <stockCount>28</stockCount>
+    <shelf>A1</shelf>
+    <interpreterName>blabla</interpreterName>
+    <createdAt>2022-05-22T21:05:53+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>23846b85-673d-493f-af57-4299980577c4</id>
+    <bookName>Sefiller</bookName>
+    <authorFullName>Victor Hugo</authorFullName>
+    <publisherName>Portakal Yayinevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>500</pageCount>
+    <isbnNumber>9786053324744</isbnNumber>
+    <publishDate>2015-01-28T00:00:00+02:00</publishDate>
+    <stockCount>8</stockCount>
+    <shelf>A3</shelf>
+    <interpreterName>Volkan Yalçıntoklu</interpreterName>
+    <createdAt>2022-05-27T22:12:12+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>243af0a3-0db8-4381-b40e-f840f4d9e7f5</id>
+    <bookName>Hukuk Sosyolojisinin Gelişim Yönü</bookName>
+    <authorFullName>Cahit Can </authorFullName>
+    <publisherName>Ankara Üniveristesi Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Sosyoloji</categoryName>
+    <pageCount>286</pageCount>
+    <isbnNumber>1</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>0</stockCount>
+    <shelf>C1</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-30T22:23:29+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>25c64a5d-8d5a-4755-9af3-33abd714fadb</id>
+    <bookName>Belirsizin Bilimleri</bookName>
+    <authorFullName>Abraham Moles</authorFullName>
+    <publisherName>Yapi Kredi Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Genel Kultur</categoryName>
+    <pageCount>283</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>2001-03-16T00:00:00+02:00</publishDate>
+    <stockCount>3</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Nuri Bilgin</interpreterName>
+    <createdAt>2022-05-31T14:13:14+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>26359a0a-33ae-449d-850b-552770c6ebdf</id>
+    <bookName>Turkiye Sorunlari-1</bookName>
+    <authorFullName>Ali Nejat Ölçen</authorFullName>
+    <publisherName>Nadir Kitap</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Genel Kultur</categoryName>
+    <pageCount>64</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1994-06-30T00:00:00+03:00</publishDate>
+    <stockCount>5</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T02:55:54+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>26baf7c4-136a-4765-9471-ab519bb0977a</id>
+    <bookName>Cezmi</bookName>
+    <authorFullName>Namik Kemal</authorFullName>
+    <publisherName>Iskele Yayincilik</publisherName>
+    <language>Ingilizce</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>287</pageCount>
+    <isbnNumber>1</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>C1</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-30T22:26:26+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>29aa0174-45bb-433d-b315-ea2e206dbb80</id>
+    <bookName>Vadideki Zambak</bookName>
+    <authorFullName>Honore de Balzac </authorFullName>
+    <publisherName>Can Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>336</pageCount>
+    <isbnNumber>9750738942</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Tahsin Yücel </interpreterName>
+    <createdAt>2022-05-30T23:37:06+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>2cf8448a-6d3b-4cc3-bd9f-456c9853aaac</id>
+    <bookName>Sevda Sözleri: Bütün Şiirleri</bookName>
+    <authorFullName>Cemal Süreyya</authorFullName>
+    <publisherName>Can Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Siir</categoryName>
+    <pageCount>376</pageCount>
+    <isbnNumber>9750745787</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-30T23:42:17+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>2f6a5fdd-bcd6-4f6f-9789-2b169d74a68a</id>
+    <bookName>Falaka</bookName>
+    <authorFullName> Ömer Seyfettin</authorFullName>
+    <publisherName>Altin Kitaplar</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>79</pageCount>
+    <isbnNumber>9752102433</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>B2</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-30T23:08:15+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>326cbd52-33b5-49c4-bc1f-c59893013696</id>
+    <bookName>Cumalikizik</bookName>
+    <authorFullName>Mehmet Vasfi Saral</authorFullName>
+    <publisherName>Ithaki Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Genel Kultur</categoryName>
+    <pageCount>183</pageCount>
+    <isbnNumber>12345671997217</isbnNumber>
+    <publishDate>2022-06-03T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-06-03T12:34:12+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>37b3c588-cee2-4061-b70f-dcd566135138</id>
+    <bookName>sdfsdf</bookName>
+    <authorFullName>Honore de Balzac </authorFullName>
+    <publisherName>Ithaki Yayinlari</publisherName>
+    <language>Ingilizce</language>
+    <categoryName>Kurgu</categoryName>
+    <pageCount>123</pageCount>
+    <isbnNumber>1234123</isbnNumber>
+    <publishDate>2022-06-09T00:00:00+03:00</publishDate>
+    <stockCount>2</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>fvsdfs</interpreterName>
+    <createdAt>2022-06-04T13:57:57+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>38611c7e-18f9-4a80-af45-c14725e8529d</id>
+    <bookName>Totem ve Tabu-1</bookName>
+    <authorFullName>Sigmund Freud</authorFullName>
+    <publisherName>Say Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>111</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1998-02-22T00:00:00+02:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Niyazi Berkes</interpreterName>
+    <createdAt>2022-05-31T03:09:11+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>3e6128a5-56dd-476a-b55b-39a2dbd24377</id>
+    <bookName>Tours Papazı</bookName>
+    <authorFullName>Honore de Balzac </authorFullName>
+    <publisherName>Salyangoz Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>172</pageCount>
+    <isbnNumber>9789756277553</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>C1</shelf>
+    <interpreterName>Mehmet Cenan</interpreterName>
+    <createdAt>2022-05-30T21:52:22+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>3f36d78f-d902-49c8-9c9c-052a7dc720b9</id>
+    <bookName>Ataturkun Anadoluya Gonderilis Olayinin İc Yuzu</bookName>
+    <authorFullName>Baki Oz</authorFullName>
+    <publisherName>Can Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Turk Tarihi</categoryName>
+    <pageCount>94</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>2000-03-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>0</interpreterName>
+    <createdAt>2022-05-31T03:05:58+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>3ffa7ac4-7600-4ea3-932c-019a0453d99c</id>
+    <bookName>Nutuk/Söylev</bookName>
+    <authorFullName>Mustafa Kemal Atatürk</authorFullName>
+    <publisherName>Yapi Kredi Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Tarih</categoryName>
+    <pageCount>1197</pageCount>
+    <isbnNumber>9789750820038</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>B2</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-30T23:03:19+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>4185de19-4cfb-4cad-b95b-a88c28d9fe21</id>
+    <bookName>Totem ve Tabu-2</bookName>
+    <authorFullName>Sigmund Freud</authorFullName>
+    <publisherName>Say Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>128</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1998-02-22T00:00:00+02:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Niyazi Berkes</interpreterName>
+    <createdAt>2022-05-31T03:09:49+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>4585bf4b-85b9-4977-8098-621a7c183d77</id>
+    <bookName>Mektuplar</bookName>
+    <authorFullName>Platon Eflatun</authorFullName>
+    <publisherName>Say Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>95</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1999-06-02T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>İrfan Sahinbas</interpreterName>
+    <createdAt>2022-05-31T03:24:34+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>4589cd31-cdd7-46e6-826f-eea65884ed26</id>
+    <bookName>Teknolojinin Bilimsel Ilkeleri</bookName>
+    <authorFullName>Onder Orhun</authorFullName>
+    <publisherName>Nobel Akademik Yayincilik</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Genel Kultur</categoryName>
+    <pageCount>295</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>2009-11-11T00:00:00+02:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T14:40:34+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>464a08f9-2c16-48ce-8d62-a9e9feb0e270</id>
+    <bookName>Birinci Dogu Halklari Kurultayi</bookName>
+    <authorFullName>Nurer Ugurlu</authorFullName>
+    <publisherName>Cumhuriyet yayinevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Turk Tarihi</categoryName>
+    <pageCount>128</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>2000-11-16T00:00:00+02:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T03:00:11+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>4e74f11e-5413-4dfa-b6db-53829a918f66</id>
+    <bookName>Taaşşuk-u Talat ve Fitnat</bookName>
+    <authorFullName>Recaizade Mahmut Ekrem</authorFullName>
+    <publisherName>Portakal Yayinevi</publisherName>
+    <language>Bulgarca</language>
+    <categoryName>Yabanci Edebiyat</categoryName>
+    <pageCount>20</pageCount>
+    <isbnNumber>541125</isbnNumber>
+    <publishDate>2022-05-25T00:00:00+03:00</publishDate>
+    <stockCount>59</stockCount>
+    <shelf>A1</shelf>
+    <interpreterName>blabla</interpreterName>
+    <createdAt>2022-05-22T19:34:39+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>4ee11005-a408-469c-a79b-d4faf105c85d</id>
+    <bookName>Köprü</bookName>
+    <authorFullName>Ayse  Kulin</authorFullName>
+    <publisherName>Inkilap Kitabevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>240</pageCount>
+    <isbnNumber>9752892639</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>C1</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T00:01:14+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>4f89c51e-be6d-46e6-b0f8-787dfc2a17cd</id>
+    <bookName>Fatih-Harbiye</bookName>
+    <authorFullName>Peyami Safa</authorFullName>
+    <publisherName>Ötüken Nesriyat</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Tarih</categoryName>
+    <pageCount>128</pageCount>
+    <isbnNumber>9754370230</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-30T23:53:39+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>503950c5-7052-45ca-bd83-d75e9181a9e0</id>
+    <bookName>aaa</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Çilek Yayinevi</publisherName>
+    <language>Ingilizce</language>
+    <categoryName>Siir</categoryName>
+    <pageCount>1</pageCount>
+    <isbnNumber>1</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>a</interpreterName>
+    <createdAt>2022-05-30T20:49:32+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>52dd1539-ff8e-4444-b7c9-e3f751c349c0</id>
+    <bookName>Atesten Gomlek</bookName>
+    <authorFullName>Halide Edib Adivar </authorFullName>
+    <publisherName>Ozgurluk Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Kurgu</categoryName>
+    <pageCount>224</pageCount>
+    <isbnNumber>9789750723322</isbnNumber>
+    <publishDate>1922-06-22T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T01:38:51+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>532048fc-bddb-447a-a511-cc7f27be17f1</id>
+    <bookName>Rudin-1</bookName>
+    <authorFullName>Turgenyev Turgenyev</authorFullName>
+    <publisherName>Is Bankasi Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>112</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>2000-06-15T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Memduh Tezel</interpreterName>
+    <createdAt>2022-05-31T03:45:02+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>543b1d92-7cbe-4cc9-bb19-bd8255feeb73</id>
+    <bookName>Insanciklar</bookName>
+    <authorFullName>Fyodor Mihaylovic</authorFullName>
+    <publisherName>Can Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>184</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1999-08-29T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Sebnem Candan</interpreterName>
+    <createdAt>2022-05-31T14:59:31+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>55c4b0e3-ac0a-4967-ab66-59af76ac56e5</id>
+    <bookName>Benerci Kendini Niçin Öldürdü?</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Yapi Kredi Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Siir</categoryName>
+    <pageCount>284</pageCount>
+    <isbnNumber>9750803744</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>C1</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-30T23:46:06+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>56401e72-6511-47f1-bb5b-91ba5f14fa29</id>
+    <bookName>Hanımın Ciftligi</bookName>
+    <authorFullName>Orhan Kemal</authorFullName>
+    <publisherName>Everest Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>586</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>2008-05-13T00:00:00+03:00</publishDate>
+    <stockCount>3</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T13:46:04+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>5c665a39-c1c6-4cc7-a070-0681cd6564db</id>
+    <bookName>Temel Ekonomi</bookName>
+    <authorFullName>Prof. Dr. Tumay  Ertek</authorFullName>
+    <publisherName>Beta Basim Yayim</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Muhasebe</categoryName>
+    <pageCount>605</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>2006-08-20T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T14:23:07+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>5c956eea-0167-40e5-8b93-61e47eee1e9d</id>
+    <bookName>Pasifik Öyküleri</bookName>
+    <authorFullName>Somerset  Maugham</authorFullName>
+    <publisherName>Cumhuriyet yayinevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>159</pageCount>
+    <isbnNumber>1</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>A1</shelf>
+    <interpreterName>Bekir Karaoğlu</interpreterName>
+    <createdAt>2022-05-30T21:44:36+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>61100cf7-2a93-48e1-8353-8f71e03d6395</id>
+    <bookName>Turkiye Sorunlari-3</bookName>
+    <authorFullName>Ali Nejat Ölçen</authorFullName>
+    <publisherName>Nadir Kitap</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Genel Kultur</categoryName>
+    <pageCount>64</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1994-06-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T02:57:52+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>623b396a-79f1-4ca9-beca-9c586030fd2a</id>
+    <bookName>Ömer Seyfettin'den Seçme Hikayeler</bookName>
+    <authorFullName> Ömer Seyfettin</authorFullName>
+    <publisherName>Is Bankasi Kültür Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>152</pageCount>
+    <isbnNumber>6052950005</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>C1</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-30T23:26:29+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>62f44b80-f463-4ac7-8df8-233c82275b71</id>
+    <bookName>Satan Reklam Yaratmak</bookName>
+    <authorFullName>Luke Sullivan</authorFullName>
+    <publisherName>Ithaki Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Pazarlama</categoryName>
+    <pageCount>576</pageCount>
+    <isbnNumber>9786054584529</isbnNumber>
+    <publishDate>2010-03-04T00:00:00+02:00</publishDate>
+    <stockCount>4</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Sevtap Yaman</interpreterName>
+    <createdAt>2022-06-03T13:05:26+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>67e09e42-1d12-49f1-90a7-8eea4ff7fe32</id>
+    <bookName>Kriz Geliyorum Der !</bookName>
+    <authorFullName>Salim Kadibesegil</authorFullName>
+    <publisherName>Mediacat Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Pazarlama</categoryName>
+    <pageCount>222</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>2009-11-27T00:00:00+02:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T14:36:06+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>69358a9a-7814-4530-a2ca-c2890b16a90b</id>
+    <bookName>Dunyalarin Savasi</bookName>
+    <authorFullName>H.G Wells</authorFullName>
+    <publisherName>Ithaki Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>256</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>2020-01-10T00:00:00+03:00</publishDate>
+    <stockCount>0</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Ali Kaftan</interpreterName>
+    <createdAt>2022-05-31T01:22:37+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>6bbf9ec4-eaca-4fc7-a882-6f314cd01d00</id>
+    <bookName>Bozkirda</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Evrensel Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>112</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>2000-05-31T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Ataol Behramoglu</interpreterName>
+    <createdAt>2022-05-31T02:52:30+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>6d10ef99-56c5-4d65-8fb7-02bc89a36d99</id>
+    <bookName>Çöle İnen Nur</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Ay Yayinevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Din</categoryName>
+    <pageCount>1</pageCount>
+    <isbnNumber>21412</isbnNumber>
+    <publishDate>2022-05-16T00:00:00+03:00</publishDate>
+    <stockCount>16</stockCount>
+    <shelf>B1</shelf>
+    <interpreterName>21</interpreterName>
+    <createdAt>2022-05-26T04:35:03+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>72a091c9-808a-438e-9cf8-695d5099df89</id>
+    <bookName>Hüzün: Dürbünümde Kırk Sene </bookName>
+    <authorFullName>Ayse  Kulin</authorFullName>
+    <publisherName>Everest Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Tarih</categoryName>
+    <pageCount>372</pageCount>
+    <isbnNumber>9752898211</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>A1</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-30T23:05:59+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>73c35901-ee4a-4f37-bf62-12bbe98d8441</id>
+    <bookName>Uc Oyku</bookName>
+    <authorFullName>Gogol Gogol</authorFullName>
+    <publisherName>Yapi Kredi Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>128</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1999-06-04T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Orhan Veli - Erol Guney</interpreterName>
+    <createdAt>2022-05-31T03:30:52+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>7656a5b9-2728-4eb0-9d71-5963c2f3ab41</id>
+    <bookName>Finansal Kiralama </bookName>
+    <authorFullName>Ahmet Erol </authorFullName>
+    <publisherName>Yaklasim Yayincilik</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Muhasebe</categoryName>
+    <pageCount>870</pageCount>
+    <isbnNumber>9756135956</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-30T22:46:36+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>79e2bdac-6964-410f-abc9-83f4cbabe3cf</id>
+    <bookName>Sınırsız Güç</bookName>
+    <authorFullName>Anthony Robbins</authorFullName>
+    <publisherName>Inkilap Kitabevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Kisisel Gelisim</categoryName>
+    <pageCount>431</pageCount>
+    <isbnNumber>975100490</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>A3</shelf>
+    <interpreterName>Mehmet Değirmenci </interpreterName>
+    <createdAt>2022-05-30T23:58:50+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>7eb5028f-b6d4-4cb5-9d52-872528a6dc55</id>
+    <bookName>Makina Dinamigi</bookName>
+    <authorFullName>Prof. Dr. Ibrahim Deniz   Akcali</authorFullName>
+    <publisherName>Kare Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Makina</categoryName>
+    <pageCount>193</pageCount>
+    <isbnNumber>9789756694299</isbnNumber>
+    <publishDate>2004-02-01T00:00:00+02:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T14:29:52+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>81b5dd22-42b2-401b-8a39-9917198e4dc0</id>
+    <bookName>İş Hukuku</bookName>
+    <authorFullName>Murat Demircioglu</authorFullName>
+    <publisherName>Beta Yayinevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hukuk</categoryName>
+    <pageCount>396</pageCount>
+    <isbnNumber>6053336679</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>B2</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-30T21:39:39+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>81c5f629-5269-40cb-ab48-b62d4fb5eda4</id>
+    <bookName>Çile</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Ay Yayinevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Siir</categoryName>
+    <pageCount>512</pageCount>
+    <isbnNumber>975-8180-12-6</isbnNumber>
+    <publishDate>2000-05-01T00:00:00+03:00</publishDate>
+    <stockCount>13</stockCount>
+    <shelf>A1</shelf>
+    <interpreterName>blabla</interpreterName>
+    <createdAt>2022-05-22T19:33:05+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>83184d4c-34eb-4b6f-86b5-5b7044e2f820</id>
+    <bookName>Apartman-3</bookName>
+    <authorFullName>Emile Zola</authorFullName>
+    <publisherName>Araf Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>60</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1999-06-04T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Bekir Karaoglu</interpreterName>
+    <createdAt>2022-05-31T03:34:20+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>852998f8-eb5d-43a8-a974-42ee83050e19</id>
+    <bookName>Yaban</bookName>
+    <authorFullName>Yakup Kadri  Karaosmanoglu</authorFullName>
+    <publisherName>Iletisim Yayincilik</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>214</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>2004-07-01T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T14:03:56+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>87d7b25d-2a94-4e0f-aecc-2db560c76cf8</id>
+    <bookName>Doğu Batı Divanı: Dramatik Şiirler</bookName>
+    <authorFullName>Enis Batur</authorFullName>
+    <publisherName>Kirmizi Kedi Yayinevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Siir</categoryName>
+    <pageCount>548</pageCount>
+    <isbnNumber>6052982756</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>C1</shelf>
+    <interpreterName />
+    <createdAt>2022-05-30T23:25:06+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>8c541a20-576a-4e38-90c2-b82c3ca6fe74</id>
+    <bookName>Araba Sevdası</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Portakal Yayinevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>255</pageCount>
+    <isbnNumber>2858526</isbnNumber>
+    <publishDate>2022-05-25T00:00:00+03:00</publishDate>
+    <stockCount>10</stockCount>
+    <shelf>B2</shelf>
+    <interpreterName>blabla</interpreterName>
+    <createdAt>2022-05-23T00:31:17+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>8fbfe986-15e0-451e-833f-15add26120ec</id>
+    <bookName>Altın Işık: Masallar, Menkıbeler, Tarihi Hikayeler</bookName>
+    <authorFullName>Ziya Gökalp</authorFullName>
+    <publisherName>Ötüken Nesriyat</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>210</pageCount>
+    <isbnNumber>605155310</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>C1</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-30T23:28:58+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>8fe98eb3-28e6-4fa3-b352-5e5f629462d4</id>
+    <bookName>deneme</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Çilek Yayinevi</publisherName>
+    <language>Ingilizce</language>
+    <categoryName>Siir</categoryName>
+    <pageCount>1</pageCount>
+    <isbnNumber>1</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>sadasd</interpreterName>
+    <createdAt>2022-05-30T20:48:58+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>902dac14-6ef3-4120-84e5-aaf6eedc6a25</id>
+    <bookName>Siyah Sut</bookName>
+    <authorFullName>Elif Safak</authorFullName>
+    <publisherName>Dogan Kitap</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>303</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>2022-05-31T00:00:00+03:00</publishDate>
+    <stockCount>2</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T02:21:17+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>9040dfa9-a980-4116-9cf5-68956aec298c</id>
+    <bookName>Semspare</bookName>
+    <authorFullName>Elif Safak</authorFullName>
+    <publisherName>Dogan Kitap</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Deneme</categoryName>
+    <pageCount>252</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>2022-05-31T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T01:13:28+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>92a70b7b-8ba9-4e02-8974-9e5b2faf0124</id>
+    <bookName>Ataturk Yasadi Mi</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Telgrafhane Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Turk Tarihi</categoryName>
+    <pageCount>184</pageCount>
+    <isbnNumber>9786058121898</isbnNumber>
+    <publishDate>2003-05-31T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>0</interpreterName>
+    <createdAt>2022-05-31T02:34:19+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>948c4c70-b86f-4c5f-a5d9-6a0772393db4</id>
+    <bookName>İcra Davalarında Olumsuz Tespit ve Geri Alma Davaları</bookName>
+    <authorFullName>Talih Uyar</authorFullName>
+    <publisherName>Safak Yayinevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hukuk</categoryName>
+    <pageCount>1116</pageCount>
+    <isbnNumber>1</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>C1</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-30T22:56:33+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>94c7fb8a-ed6d-4e1d-b7e3-11bd8438a85d</id>
+    <bookName>Koy Enstituleri Uzerine</bookName>
+    <authorFullName>Sabahattin Eyuboglu</authorFullName>
+    <publisherName>Cem Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Turk Tarihi</categoryName>
+    <pageCount>142</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1999-05-31T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T02:38:38+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>9529d5bb-4675-41d5-8cab-25b40db9bd11</id>
+    <bookName>Birinci Dogu Halklari Kurultayi-2</bookName>
+    <authorFullName>Nurer Ugurlu</authorFullName>
+    <publisherName>Cumhuriyet yayinevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Turk Tarihi</categoryName>
+    <pageCount>144</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>2000-11-16T00:00:00+02:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T03:00:55+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>9587b559-1d58-4a52-b3a3-d4d0842f5305</id>
+    <bookName>Sefiller</bookName>
+    <authorFullName>Victor Hugo</authorFullName>
+    <publisherName>Portakal Yayinevi</publisherName>
+    <language>Ingilizce</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>534</pageCount>
+    <isbnNumber>9786053324744</isbnNumber>
+    <publishDate>2015-04-16T00:00:00+03:00</publishDate>
+    <stockCount>10</stockCount>
+    <shelf>A3</shelf>
+    <interpreterName>Volkan Yalçıntoklu</interpreterName>
+    <createdAt>2022-05-27T22:39:02+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>96a197e8-22df-4c9f-b0c7-c5d682d8d36a</id>
+    <bookName>Şair Evlenmesi</bookName>
+    <authorFullName>Ibrahim  Sinasi</authorFullName>
+    <publisherName>Bilge Kültür Sanat Yayinlari</publisherName>
+    <language>Ingilizce</language>
+    <categoryName>Kurgu</categoryName>
+    <pageCount>104</pageCount>
+    <isbnNumber>9789754542417</isbnNumber>
+    <publishDate>2022-06-01T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>A3</shelf>
+    <interpreterName />
+    <createdAt>2022-06-01T12:09:56+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>99661ea5-740a-4bf7-8477-fb7efdd571ab</id>
+    <bookName>Reklam ve Rekabet</bookName>
+    <authorFullName>Jules Backman</authorFullName>
+    <publisherName>Istanbul Reklam Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Dis Ticaret</categoryName>
+    <pageCount>63</pageCount>
+    <isbnNumber>1</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>A1</shelf>
+    <interpreterName>Gürsan F. Şeyhun</interpreterName>
+    <createdAt>2022-05-30T21:28:35+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>99994b70-d697-4837-94c8-a7ac43ed2136</id>
+    <bookName>Beyaz Gemi</bookName>
+    <authorFullName>Cengiz Aytmatov</authorFullName>
+    <publisherName>Ötüken Nesriyat</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>168</pageCount>
+    <isbnNumber>9754370435</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>A1</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-30T23:39:42+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>99ed98c5-d941-40f2-8161-43f1fed8ce83</id>
+    <bookName>Atatürk Askerlikle ilgili Kitaplar</bookName>
+    <authorFullName>Nurer Ugurlu</authorFullName>
+    <publisherName>Cumhuriyet yayinevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Turk Tarihi</categoryName>
+    <pageCount>112</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1998-06-15T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T03:03:17+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>9b97ee94-378a-4492-bd9a-7b5010092b77</id>
+    <bookName>Brom</bookName>
+    <authorFullName>Abdurrahman Basaran</authorFullName>
+    <publisherName>SMS Yayinevi</publisherName>
+    <language>Ingilizce</language>
+    <categoryName>uludag</categoryName>
+    <pageCount>160</pageCount>
+    <isbnNumber>1554515</isbnNumber>
+    <publishDate>2022-06-02T00:00:00+03:00</publishDate>
+    <stockCount>15</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName />
+    <createdAt>2022-06-02T02:44:51+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>a0b7a7f7-40ea-4376-bacb-1cf8b0bfbad4</id>
+    <bookName>Sehir Romantiginin Gunlugu</bookName>
+    <authorFullName>Buket Uzuner</authorFullName>
+    <publisherName>Everest Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Kisisel Gelisim</categoryName>
+    <pageCount>200</pageCount>
+    <isbnNumber>9789752890343</isbnNumber>
+    <publishDate>1998-09-27T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-06-03T12:37:39+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>a25ca528-201e-40c2-9f75-66b3c693925d</id>
+    <bookName>Yuzbasinin Kizi</bookName>
+    <authorFullName> Aleksandr Sergeyevic  Puskin</authorFullName>
+    <publisherName>Iletisim Yayincilik</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>198</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1999-08-14T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Sebnem Candan</interpreterName>
+    <createdAt>2022-05-31T14:55:02+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>a4f19fb9-4e44-48c2-b805-3f31ff60dd0e</id>
+    <bookName>Rudin</bookName>
+    <authorFullName>Ivan Sergeyeviç Turgenyev</authorFullName>
+    <publisherName>SMS Yayinevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>109</pageCount>
+    <isbnNumber>9786057358103</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>B2</shelf>
+    <interpreterName>Memduh Tezel</interpreterName>
+    <createdAt>2022-05-30T22:13:36+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>a5023f3f-b666-414c-aef3-7e28f4390496</id>
+    <bookName>Marifetname</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Morpa Kultur Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>240</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1992-01-15T00:00:00+02:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T02:00:49+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>a83fb2cf-0fd6-4a37-ae06-4ff7f0998e1b</id>
+    <bookName>Iktisada Giris</bookName>
+    <authorFullName>Tumay  Ertek</authorFullName>
+    <publisherName>Beta Basim Yayim</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Dis Ticaret</categoryName>
+    <pageCount>171</pageCount>
+    <isbnNumber>9786052424797</isbnNumber>
+    <publishDate>2007-01-30T00:00:00+02:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-06-03T12:52:56+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>aa33fd1f-c56d-47a4-8ba7-b1cb0a736844</id>
+    <bookName>Ekonomik Terimler ve Kavramlar Sozlugu</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Husnu Tabiat Basimevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Muhasebe</categoryName>
+    <pageCount>77</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1979-07-19T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T03:40:00+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>aaa212a2-c8f7-4652-98bd-28ea5ec56e01</id>
+    <bookName>Simyacı</bookName>
+    <authorFullName>Paulo  Coelho</authorFullName>
+    <publisherName>Can Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>188</pageCount>
+    <isbnNumber>9789750726439</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Özdemir İnce</interpreterName>
+    <createdAt>2022-05-30T22:29:56+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>ab1cbd66-fe72-44ae-aa5a-d0325ffaf801</id>
+    <bookName>İlham Kaynağı Başarı Öyküleri</bookName>
+    <authorFullName>Abdurrahman Basaran</authorFullName>
+    <publisherName>Moralite Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Din</categoryName>
+    <pageCount>192</pageCount>
+    <isbnNumber>9756397233</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-30T23:35:04+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>ae29d2a1-ec6d-4655-87ca-51b7f1609d11</id>
+    <bookName>10 Olumcul Pazarlama Gunahi</bookName>
+    <authorFullName>Philip  Kotler</authorFullName>
+    <publisherName>Mediakat Kitaplari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Pazarlama</categoryName>
+    <pageCount>119</pageCount>
+    <isbnNumber>9799756347613</isbnNumber>
+    <publishDate>2007-01-30T00:00:00+02:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Banu Adiyaman</interpreterName>
+    <createdAt>2022-06-03T13:02:18+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>af1c1253-8dc0-4274-bbce-d02898ccd8c4</id>
+    <bookName>Şahmerdan </bookName>
+    <authorFullName>Sait Faik Abasiyanik</authorFullName>
+    <publisherName>Is Bankasi Kültür Yayinlari</publisherName>
+    <language>Ingilizce</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>141</pageCount>
+    <isbnNumber>6053607738</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>C1</shelf>
+    <interpreterName />
+    <createdAt>2022-05-30T23:10:25+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>b06ae9a4-9a5c-4390-bd18-9d3125e86b6f</id>
+    <bookName>Top Oynayan Kedi Magazasi</bookName>
+    <authorFullName>Sabahattin Eyuboglu</authorFullName>
+    <publisherName>Nadir Kitap</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>111</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1999-05-31T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Necdet Bingöl</interpreterName>
+    <createdAt>2022-05-31T02:41:13+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>b9e0b57e-aa48-4d87-ab06-4845145bc95c</id>
+    <bookName>Iki Sehrin Hikayesi</bookName>
+    <authorFullName>Charles  Dickens</authorFullName>
+    <publisherName>Can Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>464</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>2005-07-15T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Meram Arvas</interpreterName>
+    <createdAt>2022-05-31T13:50:43+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>c0324458-24c6-4c36-8a34-8c8c3ffb1e23</id>
+    <bookName>Uzuntuyu Birak Yasamaya Bak</bookName>
+    <authorFullName>Dale Carngie</authorFullName>
+    <publisherName>Epsilon Yayinevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Sosyoloji</categoryName>
+    <pageCount>288</pageCount>
+    <isbnNumber>9789753317658</isbnNumber>
+    <publishDate>1994-06-14T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Meltem Erkmen</interpreterName>
+    <createdAt>2022-06-03T12:50:07+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>c10edcec-8adb-4994-9eeb-8b9dc99db529</id>
+    <bookName>Therese ve Laurent</bookName>
+    <authorFullName>George Sand</authorFullName>
+    <publisherName>Is Bankasi Kültür Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>128</pageCount>
+    <isbnNumber>9789944887670</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>B2</shelf>
+    <interpreterName>Volkan Yalçıntoklu</interpreterName>
+    <createdAt>2022-05-30T22:17:01+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>c4201173-b1af-44c1-9bdd-335b627c83b5</id>
+    <bookName>Oykuler-1</bookName>
+    <authorFullName>Oscar Wilde</authorFullName>
+    <publisherName>Is Bankasi Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>96</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1999-06-02T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Nurettin Sevin</interpreterName>
+    <createdAt>2022-05-31T03:21:13+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>c5d388c8-205b-438e-bdd7-5056663ff95d</id>
+    <bookName>On Iki Gezici Oyku</bookName>
+    <authorFullName>Gabriel Garcia  Marquez</authorFullName>
+    <publisherName>Can Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>192</pageCount>
+    <isbnNumber>9789750744167</isbnNumber>
+    <publishDate>1991-12-30T00:00:00+02:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Inci Kut</interpreterName>
+    <createdAt>2022-06-03T12:40:26+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>c5f5296c-b5c4-4939-9d19-655ae88dbe0f</id>
+    <bookName>Okul Oncesi Oyun</bookName>
+    <authorFullName>Neriman Aral Figen Aksoy</authorFullName>
+    <publisherName>Ya-pa Yayincilik</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Cocuk Gelisimi</categoryName>
+    <pageCount>87</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>2001-07-05T00:00:00+03:00</publishDate>
+    <stockCount>3</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T03:13:17+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>c6199d4e-c51b-4703-a7bc-ddc226dfa2ca</id>
+    <bookName>İçimizdeki Şeytan</bookName>
+    <authorFullName>Sabahattin Ali</authorFullName>
+    <publisherName>Ithaki Yayinlari</publisherName>
+    <language>Ingilizce</language>
+    <categoryName>Kurgu</categoryName>
+    <pageCount>120</pageCount>
+    <isbnNumber>11455151</isbnNumber>
+    <publishDate>2022-05-31T00:00:00+03:00</publishDate>
+    <stockCount>15</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T16:14:55+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>c6ae82d0-0f05-4cc0-8e64-38ae90d5f0da</id>
+    <bookName>Yokus</bookName>
+    <authorFullName>Hekimoglu Ismail</authorFullName>
+    <publisherName>Timas Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>175</pageCount>
+    <isbnNumber>9789757544470</isbnNumber>
+    <publishDate>1994-09-27T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T13:57:47+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>c7c2f5e2-729b-47a8-811b-82b89f48679a</id>
+    <bookName>Oykuler-2</bookName>
+    <authorFullName>Oscar Wilde</authorFullName>
+    <publisherName>Is Bankasi Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>110</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1999-06-02T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Nurettin Sevin</interpreterName>
+    <createdAt>2022-05-31T03:22:21+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>ced82f0a-9f7d-4a42-b875-8fadd6aa3110</id>
+    <bookName>İcra Hukukunda Haciz</bookName>
+    <authorFullName>Talih Uyar</authorFullName>
+    <publisherName>Bilge Yayinevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hukuk</categoryName>
+    <pageCount>1389</pageCount>
+    <isbnNumber>1</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>B3</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-30T22:51:11+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>cf4797b1-52c8-4aae-a785-2d71178393f3</id>
+    <bookName>Gecip Gitti Gocmen Kuslar</bookName>
+    <authorFullName>Didem Uslu</authorFullName>
+    <publisherName>Yapi Kredi Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>104</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1997-09-16T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T14:08:04+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>d01058a7-47ec-4381-b4a1-e0803676519b</id>
+    <bookName>Siiri Duzde Kusatmak</bookName>
+    <authorFullName>Gulten Akin</authorFullName>
+    <publisherName>Ithaki Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Genel Kultur</categoryName>
+    <pageCount>199</pageCount>
+    <isbnNumber>9789753636971</isbnNumber>
+    <publishDate>2002-01-30T00:00:00+02:00</publishDate>
+    <stockCount>5</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T02:10:07+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>d160b678-9c24-4c22-8509-2db71684d822</id>
+    <bookName>New York'u Nasıl Sevdi</bookName>
+    <authorFullName>O' Henry </authorFullName>
+    <publisherName>Mavi Çati Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>89</pageCount>
+    <isbnNumber>1</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>NURİ EREN</interpreterName>
+    <createdAt>2022-05-30T22:01:04+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>d1bf54c2-1807-446d-a947-48bffff356d4</id>
+    <bookName>Yasasin Muzik</bookName>
+    <authorFullName>Salih Aydogdu</authorFullName>
+    <publisherName>Onder Matbaa</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Cocuk Gelisimi</categoryName>
+    <pageCount>55</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1982-02-03T00:00:00+02:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T03:28:15+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>d9a3a50c-8b57-4261-b3cb-00660f916a3b</id>
+    <bookName>Edeb Ya Hu</bookName>
+    <authorFullName>Ibrahim Refik </authorFullName>
+    <publisherName>Albatros Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Din</categoryName>
+    <pageCount>160</pageCount>
+    <isbnNumber>9758540025</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-30T23:32:26+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>dc480b80-c536-4f4e-b6fb-9c87c3092614</id>
+    <bookName>Apartman-1</bookName>
+    <authorFullName>Emile Zola</authorFullName>
+    <publisherName>Araf Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>128</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1999-06-04T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Bekir Karaoglu</interpreterName>
+    <createdAt>2022-05-31T03:33:10+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>deb6f8ca-3ff9-4855-9f28-c3f9d5a9c329</id>
+    <bookName>Siir Uzerine Notlar</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Yapi Kredi Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Siir</categoryName>
+    <pageCount>199</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>2022-05-31T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T02:04:40+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>e36c349b-ad2f-40fc-8b4a-3fac90cf4972</id>
+    <bookName>Efruz Bey</bookName>
+    <authorFullName> Ömer Seyfettin</authorFullName>
+    <publisherName>Palet Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>200</pageCount>
+    <isbnNumber>1</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>2</stockCount>
+    <shelf>C1</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-30T22:33:03+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>e465b29e-3b06-401b-a142-dd46df6fb53e</id>
+    <bookName>Cocuklarimiza Yeni Sarkilar</bookName>
+    <authorFullName>Saip  Eguz</authorFullName>
+    <publisherName>Baskent Muzikevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Cocuk Gelisimi</categoryName>
+    <pageCount>57</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1981-01-28T00:00:00+02:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-06-03T12:58:31+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>e7d4c5d8-5808-431b-936a-37cbedf1e831</id>
+    <bookName>Uluslararası Ekonomik iliskiler</bookName>
+    <authorFullName>Dr. Atilla Bagriacik</authorFullName>
+    <publisherName>Husnu Tabiat Basimevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Muhasebe</categoryName>
+    <pageCount>53</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1979-07-19T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T03:41:01+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>ea519e50-a5ce-4ba4-8227-92910310e827</id>
+    <bookName>Turkiye Sorunlari-2</bookName>
+    <authorFullName>Ali Nejat Ölçen</authorFullName>
+    <publisherName>Nadir Kitap</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Genel Kultur</categoryName>
+    <pageCount>64</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1994-06-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T02:57:20+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>eaca7f74-0111-4d37-a880-e63a930dd82f</id>
+    <bookName>Ogrencilerimize Basari Yollari</bookName>
+    <authorFullName>Ozgen  Keskin</authorFullName>
+    <publisherName>Kendi Yayini</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Genel Kultur</categoryName>
+    <pageCount>84</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1991-12-30T00:00:00+02:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-06-03T12:45:54+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>ed556253-50c3-4ca6-addf-eaa358e6845f</id>
+    <bookName>Rakiplerinizi Çıldırtmanın Yolları</bookName>
+    <authorFullName>Guy Kawasaki</authorFullName>
+    <publisherName> Mediacat Yayincilik</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Pazarlama</categoryName>
+    <pageCount>256</pageCount>
+    <isbnNumber>2789785948087</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Tanju Kalkay</interpreterName>
+    <createdAt>2022-05-30T22:42:29+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>ede19af5-6ecd-49b3-9f5f-69aebebfd4e1</id>
+    <bookName>Danabaş Köyünün Hikayeleri</bookName>
+    <authorFullName>Celil Memmedguluzade</authorFullName>
+    <publisherName>Zengin Yayincilik</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Hikaye</categoryName>
+    <pageCount>160</pageCount>
+    <isbnNumber>9786058340992</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>B2</shelf>
+    <interpreterName>DR.İLDENİZ KURTULAN</interpreterName>
+    <createdAt>2022-05-30T21:55:19+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>ee01d249-9143-44ce-8aef-5920bb9f27da</id>
+    <bookName>Tahribad-ı Harabat</bookName>
+    <authorFullName>Namik Kemal</authorFullName>
+    <publisherName>Ay Yayinevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Ani</categoryName>
+    <pageCount>312</pageCount>
+    <isbnNumber>1245160834</isbnNumber>
+    <publishDate>2022-05-26T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>B3</shelf>
+    <interpreterName>Şenol Şen</interpreterName>
+    <createdAt>2022-05-26T22:28:50+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>eeb38689-097c-4a32-8198-cbfe3235a6c2</id>
+    <bookName>Kadın Budalası</bookName>
+    <authorFullName>Fyodor Dostoyevski</authorFullName>
+    <publisherName> Bordo Siyah Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>165</pageCount>
+    <isbnNumber>9786053542247</isbnNumber>
+    <publishDate>2004-06-11T00:00:00+03:00</publishDate>
+    <stockCount>0</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Osman Çakmaçı</interpreterName>
+    <createdAt>2022-05-31T13:39:40+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>f7848450-dbe9-48b5-91f4-9a58bdda9055</id>
+    <bookName>Kırk Yedililer</bookName>
+    <authorFullName>Furuzan Furuzan</authorFullName>
+    <publisherName>Yapi Kredi Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Edebi Kurgu</categoryName>
+    <pageCount>465</pageCount>
+    <isbnNumber>9789750830969</isbnNumber>
+    <publishDate>1974-10-29T00:00:00+02:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T02:16:05+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>fa2c6a14-92c3-4cbe-8d11-7f6245c86843</id>
+    <bookName>Tanri Misafiri</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Inkilap Kitabevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>174</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>2008-06-04T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T13:28:52+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>fee8c53b-3b2a-48bf-bb6a-435c828a9915</id>
+    <bookName>Mor Salkımlı Ev </bookName>
+    <authorFullName>Halide Edib Adivar </authorFullName>
+    <publisherName>Can Yayinlari</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>344</pageCount>
+    <isbnNumber>9750723333</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-30T23:20:52+03:00</createdAt>
+  </Table1>
+</Kitaplar>

@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<Ogrenciler>
+  <Table1>
+    <id>00f692af-d132-45f1-b389-c035ef857ea2</id>
+    <AdSoyad>Esref Amca</AdSoyad>
+    <OkulNo>132030029</OkulNo>
+    <E-Posta>132030029@ogr.uludag.edu.tr</E-Posta>
+    <Bolum>Isletme</Bolum>
+    <OlusturulmaTarihi>2022-05-29T16:06:14+03:00</OlusturulmaTarihi>
+    <Fakulte>INIF</Fakulte>
+  </Table1>
+  <Table1>
+    <id>689a372a-116c-436b-9c18-1f9f92f5c8b7</id>
+    <AdSoyad>TestOgr Test</AdSoyad>
+    <OkulNo>132030017</OkulNo>
+    <E-Posta>132030017@ogr.uludag.edu.tr</E-Posta>
+    <Bolum>Yönetim Bilisim Sistemleri</Bolum>
+    <OlusturulmaTarihi>2022-06-01T13:15:38+03:00</OlusturulmaTarihi>
+    <Fakulte>INIF</Fakulte>
+  </Table1>
+  <Table1>
+    <id>6b932b92-32c2-45ff-89d9-edf55400ca3c</id>
+    <AdSoyad>Abdül Hakim</AdSoyad>
+    <OkulNo>1213124124</OkulNo>
+    <E-Posta>1213124124@ogr.uludag.edu.tr</E-Posta>
+    <Bolum>Isletme</Bolum>
+    <OlusturulmaTarihi>2022-06-01T15:47:11+03:00</OlusturulmaTarihi>
+    <Fakulte>Meslek Yüksek Okulu</Fakulte>
+  </Table1>
+  <Table1>
+    <id>a37de49c-b4a9-48a5-a46c-ab7830d5708b</id>
+    <AdSoyad>test test</AdSoyad>
+    <OkulNo>1561565</OkulNo>
+    <E-Posta>1561565@ogr.uludag.edu.tr</E-Posta>
+    <Bolum>Uluslararasi Iletisim ve Ticaret</Bolum>
+    <OlusturulmaTarihi>2022-06-03T17:31:40+03:00</OlusturulmaTarihi>
+    <Fakulte>Meslek Yüksek Okulu</Fakulte>
+  </Table1>
+  <Table1>
+    <id>dc1a3831-ca84-408b-b14c-17343bb3e982</id>
+    <AdSoyad>Dardan Milly</AdSoyad>
+    <OkulNo>1323231231</OkulNo>
+    <E-Posta>1323231231@ogr.uludag.edu.tr</E-Posta>
+    <Bolum>Uluslararasi Iletisim ve Ticaret</Bolum>
+    <OlusturulmaTarihi>2022-06-01T15:49:31+03:00</OlusturulmaTarihi>
+    <Fakulte>Isletme</Fakulte>
+  </Table1>
+</Ogrenciler>

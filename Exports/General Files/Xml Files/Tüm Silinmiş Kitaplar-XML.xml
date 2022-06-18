@@ -1,0 +1,333 @@
+<?xml version="1.0" standalone="yes"?>
+<Kitaplar>
+  <Table1>
+    <id>03115bc0-3e5e-40b5-a81d-cf3de9a7a0ce</id>
+    <bookName>Cocuk Ve Oyun</bookName>
+    <authorFullName>Dr. Esra Omeroglu</authorFullName>
+    <publisherName>Seha Nesriyat</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Cocuk Gelisimi</categoryName>
+    <pageCount>80</pageCount>
+    <isbnNumber>0</isbnNumber>
+    <publishDate>1995-10-19T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>-</interpreterName>
+    <createdAt>2022-05-31T14:17:30+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>04d4d65a-586f-4edf-bbf9-042b12c07017</id>
+    <bookName>sgfsdfg</bookName>
+    <authorFullName>Namik Kemal</authorFullName>
+    <publisherName>Ay Yayinevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>150</pageCount>
+    <isbnNumber>54145</isbnNumber>
+    <publishDate>2022-05-08T00:00:00+03:00</publishDate>
+    <stockCount>45</stockCount>
+    <shelf>A3</shelf>
+    <interpreterName>sergdf</interpreterName>
+    <createdAt>2022-05-27T22:19:31+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>0db5bcf5-4936-410d-8734-caa287183d44</id>
+    <bookName>Kürk Mantolu Madonna</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Çilek Yayinevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>232</pageCount>
+    <isbnNumber>24124124</isbnNumber>
+    <publishDate>2022-05-29T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>A3</shelf>
+    <interpreterName>emrecanbey</interpreterName>
+    <createdAt>2022-05-23T20:45:59+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>12b0b017-2223-4343-bc10-e5b7435efc1e</id>
+    <bookName>Görkemin Maceraları</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Portakal Yayinevi</publisherName>
+    <language>Çekçe</language>
+    <categoryName>Gezi</categoryName>
+    <pageCount>52</pageCount>
+    <isbnNumber>5423453</isbnNumber>
+    <publishDate>2022-05-29T00:00:00+03:00</publishDate>
+    <stockCount>3</stockCount>
+    <shelf>A1</shelf>
+    <interpreterName>xdfgx</interpreterName>
+    <createdAt>2022-05-27T22:25:47+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>1478eee0-c698-4b22-8d6a-48d7ed283564</id>
+    <bookName>dfghedfg</bookName>
+    <authorFullName>Jose Saramago</authorFullName>
+    <publisherName>Portakal Yayinevi</publisherName>
+    <language>Arapça</language>
+    <categoryName>Gezi</categoryName>
+    <pageCount>234</pageCount>
+    <isbnNumber>2345</isbnNumber>
+    <publishDate>2022-04-29T00:00:00+03:00</publishDate>
+    <stockCount>234</stockCount>
+    <shelf>A1</shelf>
+    <interpreterName>sdfg</interpreterName>
+    <createdAt>2022-05-27T22:28:17+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>29fcea2e-800e-4cb8-bc91-0f5f52a52258</id>
+    <bookName>TEST</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Armut Yayinevi</publisherName>
+    <language>Ingilizce</language>
+    <categoryName>Test Kategori</categoryName>
+    <pageCount>1</pageCount>
+    <isbnNumber>1231312</isbnNumber>
+    <publishDate>2022-05-26T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>B1</shelf>
+    <interpreterName>sad</interpreterName>
+    <createdAt>2022-05-26T04:17:44+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>37c407c8-ba82-4f98-8d5a-a7b6c6e338ed</id>
+    <bookName>test241</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Çilek Yayinevi</publisherName>
+    <language>Ingilizce</language>
+    <categoryName>Siir</categoryName>
+    <pageCount>1</pageCount>
+    <isbnNumber>1</isbnNumber>
+    <publishDate>2022-05-24T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>ss</interpreterName>
+    <createdAt>2022-05-30T18:23:27+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>396deb78-4b3c-4c85-b158-19be82b4d5e9</id>
+    <bookName>Test</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Ay Yayinevi</publisherName>
+    <language>Bulgarca</language>
+    <categoryName>Siir</categoryName>
+    <pageCount>50</pageCount>
+    <isbnNumber>548654</isbnNumber>
+    <publishDate>2022-05-02T00:00:00+03:00</publishDate>
+    <stockCount>15</stockCount>
+    <shelf>B1</shelf>
+    <interpreterName>blabla</interpreterName>
+    <createdAt>2022-05-22T19:14:19+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>4d25aa5a-5c72-4665-acc7-0b25c57dbac8</id>
+    <bookName>dsfgsdfg</bookName>
+    <authorFullName>Jose Saramago</authorFullName>
+    <publisherName>Armut Yayinevi</publisherName>
+    <language>Arapça</language>
+    <categoryName>Macera</categoryName>
+    <pageCount>12</pageCount>
+    <isbnNumber>256145</isbnNumber>
+    <publishDate>2022-06-04T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>A1</shelf>
+    <interpreterName>sdfdfg</interpreterName>
+    <createdAt>2022-05-27T22:16:49+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>6291f66b-991f-4168-abe6-4fc154013b0f</id>
+    <bookName>asdtest</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Armut Yayinevi</publisherName>
+    <language>Ingilizce</language>
+    <categoryName>Siir</categoryName>
+    <pageCount>1</pageCount>
+    <isbnNumber>    35    1  35</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>1</interpreterName>
+    <createdAt>2022-05-30T04:01:33+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>778e95dc-f7e0-4e7a-aa73-8a8ab777d435</id>
+    <bookName>Esref Amca</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Portakal Yayinevi</publisherName>
+    <language>Ingilizce</language>
+    <categoryName>Siir</categoryName>
+    <pageCount>35</pageCount>
+    <isbnNumber>             35           3535</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>35</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>Şenol Şen</interpreterName>
+    <createdAt>2022-05-30T03:57:50+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>7a4eabf8-daf4-4151-81e8-ce81c328ca8f</id>
+    <bookName>test</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Armut Yayinevi</publisherName>
+    <language>Ingilizce</language>
+    <categoryName>Siir</categoryName>
+    <pageCount>1</pageCount>
+    <isbnNumber>321412</isbnNumber>
+    <publishDate>2022-05-26T00:00:00+03:00</publishDate>
+    <stockCount>21</stockCount>
+    <shelf>B1</shelf>
+    <interpreterName>1</interpreterName>
+    <createdAt>2022-05-26T03:29:13+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>7d2e2c1f-63e9-4344-82a4-aaa9ef9c63af</id>
+    <bookName>resdgfdf</bookName>
+    <authorFullName>George Orwell</authorFullName>
+    <publisherName>Portakal Yayinevi</publisherName>
+    <language>Türkçe</language>
+    <categoryName>Roman</categoryName>
+    <pageCount>455</pageCount>
+    <isbnNumber>4545</isbnNumber>
+    <publishDate>2022-05-14T00:00:00+03:00</publishDate>
+    <stockCount>54</stockCount>
+    <shelf>A3</shelf>
+    <interpreterName>dfghdfg</interpreterName>
+    <createdAt>2022-05-27T22:36:36+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>8edd3acd-93e8-4193-950e-cac6acb0c731</id>
+    <bookName>asd</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Armut Yayinevi</publisherName>
+    <language>Ingilizce</language>
+    <categoryName>Siir</categoryName>
+    <pageCount>1</pageCount>
+    <isbnNumber>              1           1</isbnNumber>
+    <publishDate>2022-05-30T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>1</interpreterName>
+    <createdAt>2022-05-30T04:10:16+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>9b8491ee-f20a-45d0-8506-f18e54d9e871</id>
+    <bookName>emre</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Armut Yayinevi</publisherName>
+    <language>Ingilizce</language>
+    <categoryName>Siir</categoryName>
+    <pageCount>13</pageCount>
+    <isbnNumber>12</isbnNumber>
+    <publishDate>2022-05-26T00:00:00+03:00</publishDate>
+    <stockCount>13</stockCount>
+    <shelf>B1</shelf>
+    <interpreterName>12</interpreterName>
+    <createdAt>2022-05-26T03:32:37+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>a31e3691-cee0-46f6-97a0-a969b7f879ae</id>
+    <bookName>test271</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Çilek Yayinevi</publisherName>
+    <language>Ingilizce</language>
+    <categoryName>Siir</categoryName>
+    <pageCount>1</pageCount>
+    <isbnNumber>1</isbnNumber>
+    <publishDate>2022-05-27T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>s</interpreterName>
+    <createdAt>2022-05-30T18:25:15+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>a68bfa4c-cf7d-4cf6-a9dd-1aa4639da176</id>
+    <bookName>test251</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Çilek Yayinevi</publisherName>
+    <language>Ingilizce</language>
+    <categoryName>Siir</categoryName>
+    <pageCount>1</pageCount>
+    <isbnNumber>1</isbnNumber>
+    <publishDate>2022-05-25T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>s</interpreterName>
+    <createdAt>2022-05-30T18:23:45+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>acc3bcd0-8f65-45ef-9689-f1944e2dec73</id>
+    <bookName>test281</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Çilek Yayinevi</publisherName>
+    <language>Ingilizce</language>
+    <categoryName>Siir</categoryName>
+    <pageCount>1</pageCount>
+    <isbnNumber>1</isbnNumber>
+    <publishDate>2022-05-28T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>s</interpreterName>
+    <createdAt>2022-05-30T18:25:33+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>bc974820-f081-4459-8743-9cea76981065</id>
+    <bookName>test231</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Çilek Yayinevi</publisherName>
+    <language>Ingilizce</language>
+    <categoryName>Siir</categoryName>
+    <pageCount>1</pageCount>
+    <isbnNumber>124123</isbnNumber>
+    <publishDate>2022-05-11T00:00:00+03:00</publishDate>
+    <stockCount>15</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>test</interpreterName>
+    <createdAt>2022-05-30T18:23:08+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>d01ab3aa-18e0-423c-bc8c-7b4f51f76b7c</id>
+    <bookName>Testing</bookName>
+    <authorFullName>Victor Hugo</authorFullName>
+    <publisherName>Çilek Yayinevi</publisherName>
+    <language>Hirvatça</language>
+    <categoryName>Yabanci Edebiyat</categoryName>
+    <pageCount>52</pageCount>
+    <isbnNumber>4568612</isbnNumber>
+    <publishDate>2000-06-23T00:00:00+03:00</publishDate>
+    <stockCount>23</stockCount>
+    <shelf>B3</shelf>
+    <interpreterName />
+    <createdAt>2022-05-22T19:33:53+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>e7522991-9b40-401b-bd67-faef3d3c78b2</id>
+    <bookName>test112</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Armut Yayinevi</publisherName>
+    <language>Ingilizce</language>
+    <categoryName>Siir</categoryName>
+    <pageCount>2</pageCount>
+    <isbnNumber>1</isbnNumber>
+    <publishDate>2022-05-26T00:00:00+03:00</publishDate>
+    <stockCount>23</stockCount>
+    <shelf>B1</shelf>
+    <interpreterName>1</interpreterName>
+    <createdAt>2022-05-26T04:12:10+03:00</createdAt>
+  </Table1>
+  <Table1>
+    <id>f7b897c0-777e-473b-810b-1034df2ecbdf</id>
+    <bookName>test261</bookName>
+    <authorFullName>Necip Fazil Kisakürek</authorFullName>
+    <publisherName>Çilek Yayinevi</publisherName>
+    <language>Ingilizce</language>
+    <categoryName>Siir</categoryName>
+    <pageCount>1</pageCount>
+    <isbnNumber>1</isbnNumber>
+    <publishDate>2022-05-26T00:00:00+03:00</publishDate>
+    <stockCount>1</stockCount>
+    <shelf>G500</shelf>
+    <interpreterName>s</interpreterName>
+    <createdAt>2022-05-30T18:25:02+03:00</createdAt>
+  </Table1>
+</Kitaplar>

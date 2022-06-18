@@ -1,0 +1,74 @@
+ [
+    {
+      "GecikmeGunu": -19,
+      "Id": "73d37174-393d-43d7-92e9-5de871875271",
+      "Kitap": "Linux Komut Satırı",
+      "Ogrenci": "Mehmet Fidan",
+      "OgrenciNo": "132030062",
+      "OlusturulmaTarihi": "2022-05-24T14:58:09",
+      "Yazar": "Recaizade Mahmut Ekrem"
+    },
+    {
+      "GecikmeGunu": -11,
+      "Id": "7fad7ede-e5fe-4352-8769-df53f278adee",
+      "Kitap": "Çile",
+      "Ogrenci": "Mehmet Fidan",
+      "OgrenciNo": "132030062",
+      "OlusturulmaTarihi": "2022-05-24T14:56:55",
+      "Yazar": "Necip Fazil Kisakürek"
+    },
+    {
+      "GecikmeGunu": -19,
+      "Id": "73d37174-393d-43d7-92e9-5de871875271",
+      "Kitap": "Linux Komut Satırı",
+      "Ogrenci": "Mehmet Fidan",
+      "OgrenciNo": "132030062",
+      "OlusturulmaTarihi": "2022-05-24T14:58:09",
+      "Yazar": "Recaizade Mahmut Ekrem"
+    },
+    {
+      "GecikmeGunu": -11,
+      "Id": "7fad7ede-e5fe-4352-8769-df53f278adee",
+      "Kitap": "Çile",
+      "Ogrenci": "Mehmet Fidan",
+      "OgrenciNo": "132030062",
+      "OlusturulmaTarihi": "2022-05-24T14:56:55",
+      "Yazar": "Necip Fazil Kisakürek"
+    },
+    {
+      "GecikmeGunu": -19,
+      "Id": "73d37174-393d-43d7-92e9-5de871875271",
+      "Kitap": "Linux Komut Satırı",
+      "Ogrenci": "Mehmet Fidan",
+      "OgrenciNo": "132030062",
+      "OlusturulmaTarihi": "2022-05-24T14:58:09",
+      "Yazar": "Recaizade Mahmut Ekrem"
+    },
+    {
+      "GecikmeGunu": -11,
+      "Id": "7fad7ede-e5fe-4352-8769-df53f278adee",
+      "Kitap": "Çile",
+      "Ogrenci": "Mehmet Fidan",
+      "OgrenciNo": "132030062",
+      "OlusturulmaTarihi": "2022-05-24T14:56:55",
+      "Yazar": "Necip Fazil Kisakürek"
+    },
+    {
+      "GecikmeGunu": -19,
+      "Id": "73d37174-393d-43d7-92e9-5de871875271",
+      "Kitap": "Linux Komut Satırı",
+      "Ogrenci": "Mehmet Fidan",
+      "OgrenciNo": "132030062",
+      "OlusturulmaTarihi": "2022-05-24T14:58:09",
+      "Yazar": "Recaizade Mahmut Ekrem"
+    },
+    {
+      "GecikmeGunu": -11,
+      "Id": "7fad7ede-e5fe-4352-8769-df53f278adee",
+      "Kitap": "Çile",
+      "Ogrenci": "Mehmet Fidan",
+      "OgrenciNo": "132030062",
+      "OlusturulmaTarihi": "2022-05-24T14:56:55",
+      "Yazar": "Necip Fazil Kisakürek"
+    }
+  ]

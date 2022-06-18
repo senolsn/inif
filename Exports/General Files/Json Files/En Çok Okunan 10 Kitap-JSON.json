@@ -1,0 +1,52 @@
+ [
+    {
+      "Id": "81c5f629-5269-40cb-ab48-b62d4fb5eda4",
+      "Sayi": 5,
+      "Kitap": "Çile"
+    },
+    {
+      "Id": "2109933b-aa20-417e-b733-f9ba577dc0f2",
+      "Sayi": 5,
+      "Kitap": "Linux Komut Satırı"
+    },
+    {
+      "Id": "05372297-1e7a-4b13-8568-57a6c5f120e9",
+      "Sayi": 4,
+      "Kitap": "1984"
+    },
+    {
+      "Id": "4e74f11e-5413-4dfa-b6db-53829a918f66",
+      "Sayi": 3,
+      "Kitap": "Taaşşuk-u Talat ve Fitnat"
+    },
+    {
+      "Id": "8c541a20-576a-4e38-90c2-b82c3ca6fe74",
+      "Sayi": 2,
+      "Kitap": "Araba Sevdası"
+    },
+    {
+      "Id": "23846b85-673d-493f-af57-4299980577c4",
+      "Sayi": 2,
+      "Kitap": "Sefiller"
+    },
+    {
+      "Id": "26359a0a-33ae-449d-850b-552770c6ebdf",
+      "Sayi": 2,
+      "Kitap": "Turkiye Sorunlari-1"
+    },
+    {
+      "Id": "61100cf7-2a93-48e1-8353-8f71e03d6395",
+      "Sayi": 1,
+      "Kitap": "Turkiye Sorunlari-3"
+    },
+    {
+      "Id": "69358a9a-7814-4530-a2ca-c2890b16a90b",
+      "Sayi": 1,
+      "Kitap": "Dunyalarin Savasi"
+    },
+    {
+      "Id": "6d10ef99-56c5-4d65-8fb7-02bc89a36d99",
+      "Sayi": 1,
+      "Kitap": "Çöle İnen Nur"
+    }
+  ]

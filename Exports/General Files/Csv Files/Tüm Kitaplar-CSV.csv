@@ -1,0 +1,119 @@
+id,bookName,authorFullName,publisherName,language,categoryName,pageCount,isbnNumber,publishDate,stockCount,shelf,interpreterName,createdAt
+011e9a54-c88d-45dd-8c70-3377b6962874,Konuşan Kaftan,Kalman  Mikszath,Mavi Çati Yayinlari,Türkçe,Hikaye,144,9789752401341,30.05.2022 00:00:00,50,A1,Sadrettin Karatay,30.05.2022 21:48:20
+01b5c5fa-280e-4627-a927-28c4b2f18eae,A dan Z ye Ece Ayhan,Ahmet  Soysal,Yapi Kredi Yayinlari,Türkçe,Biyografi,50,0,31.05.2003 00:00:00,12,G500,-,31.05.2022 02:30:27
+05372297-1e7a-4b13-8568-57a6c5f120e9,1984,George Orwell,Ay Yayinevi,Türkçe,Yabanci Edebiyat,352,9789750718533,24.06.2021 00:00:00,22,A1,Celal Üster,27.05.2022 22:14:53
+0726a204-a253-4629-909c-c974e751411d,Philebos,Necip Fazil Kisakürek,Cumhuriyet yayinevi,Türkçe,Hikaye,127,0,30.09.1998 00:00:00,1,G500,Sabri Esat Siyavuslugil,31.05.2022 02:47:25
+07f3e712-1bcc-4129-822a-8f642e9b8c20,Cankaya,Falih Rifki Atay,Pozitif Yayinlari,Türkçe,Turk Tarihi,159,9789756461051,9.06.1999 00:00:00,1,G500,-,31.05.2022 02:25:49
+0b071602-e1d1-4d5b-ba5f-84a47cc8b29e,Hayvan Çiftliği,Necip Fazil Kisakürek,Çilek Yayinevi,Türkçe,Yabanci Edebiyat,152,9789750719387,29.05.2022 00:00:00,15,A2,Celal Üster,29.05.2022 05:06:06
+0b4d7cf0-d31d-4c06-b043-ba8c043dfbc5,Bayazit,Racine Racine,Mitos Boyut Yayinlari,Türkçe,Hikaye,112,0,31.05.2022 00:00:00,0,G500,Resat Nuri Darago,31.05.2022 03:36:47
+0e9f3428-93b7-4b2f-baf4-7143ab1c14df,Raporlama Teknikleri,MICHAEL  THOMSETT,Epsilon Yayinevi,Türkçe,Isletme,176,975331034,30.05.2022 00:00:00,7,G500,Işın Tuzcular,30.05.2022 21:33:43
+0fd791d8-e3f1-4295-8391-edd3b3b4c35a,Turne Mektupları,Ahmet Erol ,Yapi Kredi Yayinlari,Türkçe,Roman,88,9789753637947,30.05.2022 00:00:00,1,C1,-,30.05.2022 22:39:02
+157e4ecd-500f-402b-8181-a65a9a3f3877,Tiryaki Sözleri ,Cenap Sehabettin,Maviçati Yayinlari,Türkçe,Hikaye,58,9752401384,30.05.2022 00:00:00,0,G500,-,30.05.2022 23:44:19
+16f750e3-240f-4087-bd7f-55f44294b7ea,Mukavemet,Tekin  Ozbek,Birsen Yayinevi,Türkçe,Makina,186,0,28.09.1998 00:00:00,2,G500,-,31.05.2022 14:44:38
+17626a1c-263e-40c8-a412-c0fffd314ba2,İcra Hukukunda İtiraz,Talih Uyar,Bilge Yayinevi,Türkçe,Hukuk,1103,1,30.05.2022 00:00:00,0,B3,-,30.05.2022 22:53:01
+18605d15-ba12-4d3a-aec5-9b828a047ed5,Okuk Oncesi Egitim 2,Dr. Neriman Aral Dr. Adalet Kandir,Ya-pa Yayincilik,Türkçe,Cocuk Gelisimi,104,0,5.07.2001 00:00:00,2,G500,-,31.05.2022 03:15:15
+18de126f-1d18-4f1f-96ca-7caa62de38c2,Hidrolik Kumanda Sistemleri,Mehmet Emin Zorkun,Milli Egitim Basimevi,Türkçe,Makina,274,0,31.05.1979 00:00:00,1,G500,-,31.05.2022 01:47:20
+1e0384e1-cc09-49d9-80ba-639ec699b55b,Goriot Baba,Honore de Balzac ,Is Bankasi Kültür Yayinlari,Türkçe,Roman,288,6052958278,30.05.2022 00:00:00,1,C1,,30.05.2022 23:55:48
+1eb550b3-2887-434c-99db-c9f6421b76bd,Taras Bulba,Nikolay Vasilyeviç Gogol,Oda Yayinlari,Türkçe,Hikaye,94,9789753852692,30.05.2022 00:00:00,1,A1,MEHMET ÖZGÜL,30.05.2022 21:58:47
+2109933b-aa20-417e-b733-f9ba577dc0f2,Linux Komut Satırı,Recaizade Mahmut Ekrem,Çilek Yayinevi,Arapça,Yabanci Edebiyat,65,54125,24.05.2022 00:00:00,28,A1,blabla,22.05.2022 21:05:53
+23846b85-673d-493f-af57-4299980577c4,Sefiller,Victor Hugo,Portakal Yayinevi,Türkçe,Roman,500,9786053324744,28.01.2015 00:00:00,8,A3,Volkan Yalçıntoklu,27.05.2022 22:12:12
+243af0a3-0db8-4381-b40e-f840f4d9e7f5,Hukuk Sosyolojisinin Gelişim Yönü,Cahit Can ,Ankara Üniveristesi Yayinlari,Türkçe,Sosyoloji,286,1,30.05.2022 00:00:00,0,C1,-,30.05.2022 22:23:29
+25c64a5d-8d5a-4755-9af3-33abd714fadb,Belirsizin Bilimleri,Abraham Moles,Yapi Kredi Yayinlari,Türkçe,Genel Kultur,283,0,16.03.2001 00:00:00,3,G500,Nuri Bilgin,31.05.2022 14:13:14
+26359a0a-33ae-449d-850b-552770c6ebdf,Turkiye Sorunlari-1,Ali Nejat Ölçen,Nadir Kitap,Türkçe,Genel Kultur,64,0,30.06.1994 00:00:00,5,G500,-,31.05.2022 02:55:54
+26baf7c4-136a-4765-9471-ab519bb0977a,Cezmi,Namik Kemal,Iskele Yayincilik,Ingilizce,Roman,287,1,30.05.2022 00:00:00,1,C1,-,30.05.2022 22:26:26
+29aa0174-45bb-433d-b315-ea2e206dbb80,Vadideki Zambak,Honore de Balzac ,Can Yayinlari,Türkçe,Roman,336,9750738942,30.05.2022 00:00:00,1,G500,Tahsin Yücel ,30.05.2022 23:37:06
+2cf8448a-6d3b-4cc3-bd9f-456c9853aaac,Sevda Sözleri: Bütün Şiirleri,Cemal Süreyya,Can Yayinlari,Türkçe,Siir,376,9750745787,30.05.2022 00:00:00,1,G500,-,30.05.2022 23:42:17
+2f6a5fdd-bcd6-4f6f-9789-2b169d74a68a,Falaka, Ömer Seyfettin,Altin Kitaplar,Türkçe,Hikaye,79,9752102433,30.05.2022 00:00:00,1,B2,-,30.05.2022 23:08:15
+326cbd52-33b5-49c4-bc1f-c59893013696,Cumalikizik,Mehmet Vasfi Saral,Ithaki Yayinlari,Türkçe,Genel Kultur,183,12345671997217,3.06.2022 00:00:00,1,G500,-,3.06.2022 12:34:12
+37b3c588-cee2-4061-b70f-dcd566135138,sdfsdf,Honore de Balzac ,Ithaki Yayinlari,Ingilizce,Kurgu,123,1234123,9.06.2022 00:00:00,2,G500,fvsdfs,4.06.2022 13:57:57
+38611c7e-18f9-4a80-af45-c14725e8529d,Totem ve Tabu-1,Sigmund Freud,Say Yayinlari,Türkçe,Hikaye,111,0,22.02.1998 00:00:00,1,G500,Niyazi Berkes,31.05.2022 03:09:11
+3e6128a5-56dd-476a-b55b-39a2dbd24377,Tours Papazı,Honore de Balzac ,Salyangoz Yayinlari,Türkçe,Hikaye,172,9789756277553,30.05.2022 00:00:00,1,C1,Mehmet Cenan,30.05.2022 21:52:22
+3f36d78f-d902-49c8-9c9c-052a7dc720b9,Ataturkun Anadoluya Gonderilis Olayinin İc Yuzu,Baki Oz,Can Yayinlari,Türkçe,Turk Tarihi,94,0,30.03.2000 00:00:00,1,G500,0,31.05.2022 03:05:58
+3ffa7ac4-7600-4ea3-932c-019a0453d99c,Nutuk/Söylev,Mustafa Kemal Atatürk,Yapi Kredi Yayinlari,Türkçe,Tarih,1197,9789750820038,30.05.2022 00:00:00,1,B2,-,30.05.2022 23:03:19
+4185de19-4cfb-4cad-b95b-a88c28d9fe21,Totem ve Tabu-2,Sigmund Freud,Say Yayinlari,Türkçe,Hikaye,128,0,22.02.1998 00:00:00,1,G500,Niyazi Berkes,31.05.2022 03:09:49
+4585bf4b-85b9-4977-8098-621a7c183d77,Mektuplar,Platon Eflatun,Say Yayinlari,Türkçe,Hikaye,95,0,2.06.1999 00:00:00,1,G500,İrfan Sahinbas,31.05.2022 03:24:34
+4589cd31-cdd7-46e6-826f-eea65884ed26,Teknolojinin Bilimsel Ilkeleri,Onder Orhun,Nobel Akademik Yayincilik,Türkçe,Genel Kultur,295,0,11.11.2009 00:00:00,1,G500,-,31.05.2022 14:40:34
+464a08f9-2c16-48ce-8d62-a9e9feb0e270,Birinci Dogu Halklari Kurultayi,Nurer Ugurlu,Cumhuriyet yayinevi,Türkçe,Turk Tarihi,128,0,16.11.2000 00:00:00,1,G500,-,31.05.2022 03:00:11
+4e74f11e-5413-4dfa-b6db-53829a918f66,Taaşşuk-u Talat ve Fitnat,Recaizade Mahmut Ekrem,Portakal Yayinevi,Bulgarca,Yabanci Edebiyat,20,541125,25.05.2022 00:00:00,59,A1,blabla,22.05.2022 19:34:39
+4ee11005-a408-469c-a79b-d4faf105c85d,Köprü,Ayse  Kulin,Inkilap Kitabevi,Türkçe,Roman,240,9752892639,30.05.2022 00:00:00,1,C1,-,31.05.2022 00:01:14
+4f89c51e-be6d-46e6-b0f8-787dfc2a17cd,Fatih-Harbiye,Peyami Safa,Ötüken Nesriyat,Türkçe,Tarih,128,9754370230,30.05.2022 00:00:00,1,G500,-,30.05.2022 23:53:39
+503950c5-7052-45ca-bd83-d75e9181a9e0,aaa,Necip Fazil Kisakürek,Çilek Yayinevi,Ingilizce,Siir,1,1,30.05.2022 00:00:00,1,G500,a,30.05.2022 20:49:32
+52dd1539-ff8e-4444-b7c9-e3f751c349c0,Atesten Gomlek,Halide Edib Adivar ,Ozgurluk Yayinlari,Türkçe,Kurgu,224,9789750723322,22.06.1922 00:00:00,1,G500,-,31.05.2022 01:38:51
+532048fc-bddb-447a-a511-cc7f27be17f1,Rudin-1,Turgenyev Turgenyev,Is Bankasi Yayinlari,Türkçe,Hikaye,112,0,15.06.2000 00:00:00,1,G500,Memduh Tezel,31.05.2022 03:45:02
+543b1d92-7cbe-4cc9-bb19-bd8255feeb73,Insanciklar,Fyodor Mihaylovic,Can Yayinlari,Türkçe,Roman,184,0,29.08.1999 00:00:00,1,G500,Sebnem Candan,31.05.2022 14:59:31
+55c4b0e3-ac0a-4967-ab66-59af76ac56e5,Benerci Kendini Niçin Öldürdü?,Necip Fazil Kisakürek,Yapi Kredi Yayinlari,Türkçe,Siir,284,9750803744,30.05.2022 00:00:00,1,C1,-,30.05.2022 23:46:06
+56401e72-6511-47f1-bb5b-91ba5f14fa29,Hanımın Ciftligi,Orhan Kemal,Everest Yayinlari,Türkçe,Roman,586,0,13.05.2008 00:00:00,3,G500,-,31.05.2022 13:46:04
+5c665a39-c1c6-4cc7-a070-0681cd6564db,Temel Ekonomi,Prof. Dr. Tumay  Ertek,Beta Basim Yayim,Türkçe,Muhasebe,605,0,20.08.2006 00:00:00,1,G500,-,31.05.2022 14:23:07
+5c956eea-0167-40e5-8b93-61e47eee1e9d,Pasifik Öyküleri,Somerset  Maugham,Cumhuriyet yayinevi,Türkçe,Hikaye,159,1,30.05.2022 00:00:00,1,A1,Bekir Karaoğlu,30.05.2022 21:44:36
+61100cf7-2a93-48e1-8353-8f71e03d6395,Turkiye Sorunlari-3,Ali Nejat Ölçen,Nadir Kitap,Türkçe,Genel Kultur,64,0,30.06.1994 00:00:00,1,G500,-,31.05.2022 02:57:52
+623b396a-79f1-4ca9-beca-9c586030fd2a,Ömer Seyfettin'den Seçme Hikayeler, Ömer Seyfettin,Is Bankasi Kültür Yayinlari,Türkçe,Hikaye,152,6052950005,30.05.2022 00:00:00,1,C1,-,30.05.2022 23:26:29
+62f44b80-f463-4ac7-8df8-233c82275b71,Satan Reklam Yaratmak,Luke Sullivan,Ithaki Yayinlari,Türkçe,Pazarlama,576,9786054584529,4.03.2010 00:00:00,4,G500,Sevtap Yaman,3.06.2022 13:05:26
+67e09e42-1d12-49f1-90a7-8eea4ff7fe32,Kriz Geliyorum Der !,Salim Kadibesegil,Mediacat Yayinlari,Türkçe,Pazarlama,222,0,27.11.2009 00:00:00,1,G500,-,31.05.2022 14:36:06
+69358a9a-7814-4530-a2ca-c2890b16a90b,Dunyalarin Savasi,H.G Wells,Ithaki Yayinlari,Türkçe,Roman,256,0,10.01.2020 00:00:00,0,G500,Ali Kaftan,31.05.2022 01:22:37
+6bbf9ec4-eaca-4fc7-a882-6f314cd01d00,Bozkirda,Necip Fazil Kisakürek,Evrensel Yayinlari,Türkçe,Hikaye,112,0,31.05.2000 00:00:00,1,G500,Ataol Behramoglu,31.05.2022 02:52:30
+6d10ef99-56c5-4d65-8fb7-02bc89a36d99,Çöle İnen Nur,Necip Fazil Kisakürek,Ay Yayinevi,Türkçe,Din,1,21412,16.05.2022 00:00:00,16,B1,21,26.05.2022 04:35:03
+72a091c9-808a-438e-9cf8-695d5099df89,Hüzün: Dürbünümde Kırk Sene ,Ayse  Kulin,Everest Yayinlari,Türkçe,Tarih,372,9752898211,30.05.2022 00:00:00,1,A1,-,30.05.2022 23:05:59
+73c35901-ee4a-4f37-bf62-12bbe98d8441,Uc Oyku,Gogol Gogol,Yapi Kredi Yayinlari,Türkçe,Hikaye,128,0,4.06.1999 00:00:00,1,G500,Orhan Veli - Erol Guney,31.05.2022 03:30:52
+7656a5b9-2728-4eb0-9d71-5963c2f3ab41,Finansal Kiralama ,Ahmet Erol ,Yaklasim Yayincilik,Türkçe,Muhasebe,870,9756135956,30.05.2022 00:00:00,1,G500,-,30.05.2022 22:46:36
+79e2bdac-6964-410f-abc9-83f4cbabe3cf,Sınırsız Güç,Anthony Robbins,Inkilap Kitabevi,Türkçe,Kisisel Gelisim,431,975100490,30.05.2022 00:00:00,1,A3,Mehmet Değirmenci ,30.05.2022 23:58:50
+7eb5028f-b6d4-4cb5-9d52-872528a6dc55,Makina Dinamigi,Prof. Dr. Ibrahim Deniz   Akcali,Kare Yayinlari,Türkçe,Makina,193,9789756694299,1.02.2004 00:00:00,1,G500,-,31.05.2022 14:29:52
+81b5dd22-42b2-401b-8a39-9917198e4dc0,İş Hukuku,Murat Demircioglu,Beta Yayinevi,Türkçe,Hukuk,396,6053336679,30.05.2022 00:00:00,1,B2,-,30.05.2022 21:39:39
+81c5f629-5269-40cb-ab48-b62d4fb5eda4,Çile,Necip Fazil Kisakürek,Ay Yayinevi,Türkçe,Siir,512,975-8180-12-6,1.05.2000 00:00:00,13,A1,blabla,22.05.2022 19:33:05
+83184d4c-34eb-4b6f-86b5-5b7044e2f820,Apartman-3,Emile Zola,Araf Yayinlari,Türkçe,Hikaye,60,0,4.06.1999 00:00:00,1,G500,Bekir Karaoglu,31.05.2022 03:34:20
+852998f8-eb5d-43a8-a974-42ee83050e19,Yaban,Yakup Kadri  Karaosmanoglu,Iletisim Yayincilik,Türkçe,Roman,214,0,1.07.2004 00:00:00,1,G500,-,31.05.2022 14:03:56
+87d7b25d-2a94-4e0f-aecc-2db560c76cf8,Doğu Batı Divanı: Dramatik Şiirler,Enis Batur,Kirmizi Kedi Yayinevi,Türkçe,Siir,548,6052982756,30.05.2022 00:00:00,1,C1,,30.05.2022 23:25:06
+8c541a20-576a-4e38-90c2-b82c3ca6fe74,Araba Sevdası,Necip Fazil Kisakürek,Portakal Yayinevi,Türkçe,Roman,255,2858526,25.05.2022 00:00:00,10,B2,blabla,23.05.2022 00:31:17
+8fbfe986-15e0-451e-833f-15add26120ec,"Altın Işık: Masallar, Menkıbeler, Tarihi Hikayeler",Ziya Gökalp,Ötüken Nesriyat,Türkçe,Hikaye,210,605155310,30.05.2022 00:00:00,1,C1,-,30.05.2022 23:28:58
+8fe98eb3-28e6-4fa3-b352-5e5f629462d4,deneme,Necip Fazil Kisakürek,Çilek Yayinevi,Ingilizce,Siir,1,1,30.05.2022 00:00:00,1,G500,sadasd,30.05.2022 20:48:58
+902dac14-6ef3-4120-84e5-aaf6eedc6a25,Siyah Sut,Elif Safak,Dogan Kitap,Türkçe,Roman,303,0,31.05.2022 00:00:00,2,G500,-,31.05.2022 02:21:17
+9040dfa9-a980-4116-9cf5-68956aec298c,Semspare,Elif Safak,Dogan Kitap,Türkçe,Deneme,252,0,31.05.2022 00:00:00,1,G500,-,31.05.2022 01:13:28
+92a70b7b-8ba9-4e02-8974-9e5b2faf0124,Ataturk Yasadi Mi,Necip Fazil Kisakürek,Telgrafhane Yayinlari,Türkçe,Turk Tarihi,184,9786058121898,31.05.2003 00:00:00,1,G500,0,31.05.2022 02:34:19
+948c4c70-b86f-4c5f-a5d9-6a0772393db4,İcra Davalarında Olumsuz Tespit ve Geri Alma Davaları,Talih Uyar,Safak Yayinevi,Türkçe,Hukuk,1116,1,30.05.2022 00:00:00,1,C1,-,30.05.2022 22:56:33
+94c7fb8a-ed6d-4e1d-b7e3-11bd8438a85d,Koy Enstituleri Uzerine,Sabahattin Eyuboglu,Cem Yayinlari,Türkçe,Turk Tarihi,142,0,31.05.1999 00:00:00,1,G500,-,31.05.2022 02:38:38
+9529d5bb-4675-41d5-8cab-25b40db9bd11,Birinci Dogu Halklari Kurultayi-2,Nurer Ugurlu,Cumhuriyet yayinevi,Türkçe,Turk Tarihi,144,0,16.11.2000 00:00:00,1,G500,-,31.05.2022 03:00:55
+9587b559-1d58-4a52-b3a3-d4d0842f5305,Sefiller,Victor Hugo,Portakal Yayinevi,Ingilizce,Roman,534,9786053324744,16.04.2015 00:00:00,10,A3,Volkan Yalçıntoklu,27.05.2022 22:39:02
+96a197e8-22df-4c9f-b0c7-c5d682d8d36a,Şair Evlenmesi,Ibrahim  Sinasi,Bilge Kültür Sanat Yayinlari,Ingilizce,Kurgu,104,9789754542417,1.06.2022 00:00:00,1,A3,,1.06.2022 12:09:56
+99661ea5-740a-4bf7-8477-fb7efdd571ab,Reklam ve Rekabet,Jules Backman,Istanbul Reklam Yayinlari,Türkçe,Dis Ticaret,63,1,30.05.2022 00:00:00,1,A1,Gürsan F. Şeyhun,30.05.2022 21:28:35
+99994b70-d697-4837-94c8-a7ac43ed2136,Beyaz Gemi,Cengiz Aytmatov,Ötüken Nesriyat,Türkçe,Roman,168,9754370435,30.05.2022 00:00:00,1,A1,-,30.05.2022 23:39:42
+99ed98c5-d941-40f2-8161-43f1fed8ce83,Atatürk Askerlikle ilgili Kitaplar,Nurer Ugurlu,Cumhuriyet yayinevi,Türkçe,Turk Tarihi,112,0,15.06.1998 00:00:00,1,G500,-,31.05.2022 03:03:17
+9b97ee94-378a-4492-bd9a-7b5010092b77,Brom,Abdurrahman Basaran,SMS Yayinevi,Ingilizce,uludag,160,1554515,2.06.2022 00:00:00,15,G500,,2.06.2022 02:44:51
+a0b7a7f7-40ea-4376-bacb-1cf8b0bfbad4,Sehir Romantiginin Gunlugu,Buket Uzuner,Everest Yayinlari,Türkçe,Kisisel Gelisim,200,9789752890343,27.09.1998 00:00:00,1,G500,-,3.06.2022 12:37:39
+a25ca528-201e-40c2-9f75-66b3c693925d,Yuzbasinin Kizi, Aleksandr Sergeyevic  Puskin,Iletisim Yayincilik,Türkçe,Roman,198,0,14.08.1999 00:00:00,1,G500,Sebnem Candan,31.05.2022 14:55:02
+a4f19fb9-4e44-48c2-b805-3f31ff60dd0e,Rudin,Ivan Sergeyeviç Turgenyev,SMS Yayinevi,Türkçe,Hikaye,109,9786057358103,30.05.2022 00:00:00,1,B2,Memduh Tezel,30.05.2022 22:13:36
+a5023f3f-b666-414c-aef3-7e28f4390496,Marifetname,Necip Fazil Kisakürek,Morpa Kultur Yayinlari,Türkçe,Roman,240,0,15.01.1992 00:00:00,1,G500,-,31.05.2022 02:00:49
+a83fb2cf-0fd6-4a37-ae06-4ff7f0998e1b,Iktisada Giris,Tumay  Ertek,Beta Basim Yayim,Türkçe,Dis Ticaret,171,9786052424797,30.01.2007 00:00:00,1,G500,-,3.06.2022 12:52:56
+aa33fd1f-c56d-47a4-8ba7-b1cb0a736844,Ekonomik Terimler ve Kavramlar Sozlugu,Necip Fazil Kisakürek,Husnu Tabiat Basimevi,Türkçe,Muhasebe,77,0,19.07.1979 00:00:00,1,G500,-,31.05.2022 03:40:00
+aaa212a2-c8f7-4652-98bd-28ea5ec56e01,Simyacı,Paulo  Coelho,Can Yayinlari,Türkçe,Hikaye,188,9789750726439,30.05.2022 00:00:00,1,G500,Özdemir İnce,30.05.2022 22:29:56
+ab1cbd66-fe72-44ae-aa5a-d0325ffaf801,İlham Kaynağı Başarı Öyküleri,Abdurrahman Basaran,Moralite Yayinlari,Türkçe,Din,192,9756397233,30.05.2022 00:00:00,1,G500,-,30.05.2022 23:35:04
+ae29d2a1-ec6d-4655-87ca-51b7f1609d11,10 Olumcul Pazarlama Gunahi,Philip  Kotler,Mediakat Kitaplari,Türkçe,Pazarlama,119,9799756347613,30.01.2007 00:00:00,1,G500,Banu Adiyaman,3.06.2022 13:02:18
+af1c1253-8dc0-4274-bbce-d02898ccd8c4,Şahmerdan ,Sait Faik Abasiyanik,Is Bankasi Kültür Yayinlari,Ingilizce,Roman,141,6053607738,30.05.2022 00:00:00,1,C1,,30.05.2022 23:10:25
+b06ae9a4-9a5c-4390-bd18-9d3125e86b6f,Top Oynayan Kedi Magazasi,Sabahattin Eyuboglu,Nadir Kitap,Türkçe,Hikaye,111,0,31.05.1999 00:00:00,1,G500,Necdet Bingöl,31.05.2022 02:41:13
+b9e0b57e-aa48-4d87-ab06-4845145bc95c,Iki Sehrin Hikayesi,Charles  Dickens,Can Yayinlari,Türkçe,Roman,464,0,15.07.2005 00:00:00,1,G500,Meram Arvas,31.05.2022 13:50:43
+c0324458-24c6-4c36-8a34-8c8c3ffb1e23,Uzuntuyu Birak Yasamaya Bak,Dale Carngie,Epsilon Yayinevi,Türkçe,Sosyoloji,288,9789753317658,14.06.1994 00:00:00,1,G500,Meltem Erkmen,3.06.2022 12:50:07
+c10edcec-8adb-4994-9eeb-8b9dc99db529,Therese ve Laurent,George Sand,Is Bankasi Kültür Yayinlari,Türkçe,Hikaye,128,9789944887670,30.05.2022 00:00:00,1,B2,Volkan Yalçıntoklu,30.05.2022 22:17:01
+c4201173-b1af-44c1-9bdd-335b627c83b5,Oykuler-1,Oscar Wilde,Is Bankasi Yayinlari,Türkçe,Hikaye,96,0,2.06.1999 00:00:00,1,G500,Nurettin Sevin,31.05.2022 03:21:13
+c5d388c8-205b-438e-bdd7-5056663ff95d,On Iki Gezici Oyku,Gabriel Garcia  Marquez,Can Yayinlari,Türkçe,Roman,192,9789750744167,30.12.1991 00:00:00,1,G500,Inci Kut,3.06.2022 12:40:26
+c5f5296c-b5c4-4939-9d19-655ae88dbe0f,Okul Oncesi Oyun,Neriman Aral Figen Aksoy,Ya-pa Yayincilik,Türkçe,Cocuk Gelisimi,87,0,5.07.2001 00:00:00,3,G500,-,31.05.2022 03:13:17
+c6199d4e-c51b-4703-a7bc-ddc226dfa2ca,İçimizdeki Şeytan,Sabahattin Ali,Ithaki Yayinlari,Ingilizce,Kurgu,120,11455151,31.05.2022 00:00:00,15,G500,-,31.05.2022 16:14:55
+c6ae82d0-0f05-4cc0-8e64-38ae90d5f0da,Yokus,Hekimoglu Ismail,Timas Yayinlari,Türkçe,Roman,175,9789757544470,27.09.1994 00:00:00,1,G500,-,31.05.2022 13:57:47
+c7c2f5e2-729b-47a8-811b-82b89f48679a,Oykuler-2,Oscar Wilde,Is Bankasi Yayinlari,Türkçe,Hikaye,110,0,2.06.1999 00:00:00,1,G500,Nurettin Sevin,31.05.2022 03:22:21
+ced82f0a-9f7d-4a42-b875-8fadd6aa3110,İcra Hukukunda Haciz,Talih Uyar,Bilge Yayinevi,Türkçe,Hukuk,1389,1,30.05.2022 00:00:00,1,B3,-,30.05.2022 22:51:11
+cf4797b1-52c8-4aae-a785-2d71178393f3,Gecip Gitti Gocmen Kuslar,Didem Uslu,Yapi Kredi Yayinlari,Türkçe,Roman,104,0,16.09.1997 00:00:00,1,G500,-,31.05.2022 14:08:04
+d01058a7-47ec-4381-b4a1-e0803676519b,Siiri Duzde Kusatmak,Gulten Akin,Ithaki Yayinlari,Türkçe,Genel Kultur,199,9789753636971,30.01.2002 00:00:00,5,G500,-,31.05.2022 02:10:07
+d160b678-9c24-4c22-8509-2db71684d822,New York'u Nasıl Sevdi,O' Henry ,Mavi Çati Yayinlari,Türkçe,Hikaye,89,1,30.05.2022 00:00:00,1,G500,NURİ EREN,30.05.2022 22:01:04
+d1bf54c2-1807-446d-a947-48bffff356d4,Yasasin Muzik,Salih Aydogdu,Onder Matbaa,Türkçe,Cocuk Gelisimi,55,0,3.02.1982 00:00:00,1,G500,-,31.05.2022 03:28:15
+d9a3a50c-8b57-4261-b3cb-00660f916a3b,Edeb Ya Hu,Ibrahim Refik ,Albatros Yayinlari,Türkçe,Din,160,9758540025,30.05.2022 00:00:00,1,G500,-,30.05.2022 23:32:26
+dc480b80-c536-4f4e-b6fb-9c87c3092614,Apartman-1,Emile Zola,Araf Yayinlari,Türkçe,Hikaye,128,0,4.06.1999 00:00:00,1,G500,Bekir Karaoglu,31.05.2022 03:33:10
+deb6f8ca-3ff9-4855-9f28-c3f9d5a9c329,Siir Uzerine Notlar,Necip Fazil Kisakürek,Yapi Kredi Yayinlari,Türkçe,Siir,199,0,31.05.2022 00:00:00,1,G500,-,31.05.2022 02:04:40
+e36c349b-ad2f-40fc-8b4a-3fac90cf4972,Efruz Bey, Ömer Seyfettin,Palet Yayinlari,Türkçe,Roman,200,1,30.05.2022 00:00:00,2,C1,-,30.05.2022 22:33:03
+e465b29e-3b06-401b-a142-dd46df6fb53e,Cocuklarimiza Yeni Sarkilar,Saip  Eguz,Baskent Muzikevi,Türkçe,Cocuk Gelisimi,57,0,28.01.1981 00:00:00,1,G500,-,3.06.2022 12:58:31
+e7d4c5d8-5808-431b-936a-37cbedf1e831,Uluslararası Ekonomik iliskiler,Dr. Atilla Bagriacik,Husnu Tabiat Basimevi,Türkçe,Muhasebe,53,0,19.07.1979 00:00:00,1,G500,-,31.05.2022 03:41:01
+ea519e50-a5ce-4ba4-8227-92910310e827,Turkiye Sorunlari-2,Ali Nejat Ölçen,Nadir Kitap,Türkçe,Genel Kultur,64,0,30.06.1994 00:00:00,1,G500,-,31.05.2022 02:57:20
+eaca7f74-0111-4d37-a880-e63a930dd82f,Ogrencilerimize Basari Yollari,Ozgen  Keskin,Kendi Yayini,Türkçe,Genel Kultur,84,0,30.12.1991 00:00:00,1,G500,-,3.06.2022 12:45:54
+ed556253-50c3-4ca6-addf-eaa358e6845f,Rakiplerinizi Çıldırtmanın Yolları,Guy Kawasaki, Mediacat Yayincilik,Türkçe,Pazarlama,256,2789785948087,30.05.2022 00:00:00,1,G500,Tanju Kalkay,30.05.2022 22:42:29
+ede19af5-6ecd-49b3-9f5f-69aebebfd4e1,Danabaş Köyünün Hikayeleri,Celil Memmedguluzade,Zengin Yayincilik,Türkçe,Hikaye,160,9786058340992,30.05.2022 00:00:00,1,B2,DR.İLDENİZ KURTULAN,30.05.2022 21:55:19
+ee01d249-9143-44ce-8aef-5920bb9f27da,Tahribad-ı Harabat,Namik Kemal,Ay Yayinevi,Türkçe,Ani,312,1245160834,26.05.2022 00:00:00,1,B3,Şenol Şen,26.05.2022 22:28:50
+eeb38689-097c-4a32-8198-cbfe3235a6c2,Kadın Budalası,Fyodor Dostoyevski, Bordo Siyah Yayinlari,Türkçe,Roman,165,9786053542247,11.06.2004 00:00:00,0,G500,Osman Çakmaçı,31.05.2022 13:39:40
+f7848450-dbe9-48b5-91f4-9a58bdda9055,Kırk Yedililer,Furuzan Furuzan,Yapi Kredi Yayinlari,Türkçe,Edebi Kurgu,465,9789750830969,29.10.1974 00:00:00,1,G500,-,31.05.2022 02:16:05
+fa2c6a14-92c3-4cbe-8d11-7f6245c86843,Tanri Misafiri,Necip Fazil Kisakürek,Inkilap Kitabevi,Türkçe,Roman,174,0,4.06.2008 00:00:00,1,G500,-,31.05.2022 13:28:52
+fee8c53b-3b2a-48bf-bb6a-435c828a9915,Mor Salkımlı Ev ,Halide Edib Adivar ,Can Yayinlari,Türkçe,Roman,344,9750723333,30.05.2022 00:00:00,1,G500,-,30.05.2022 23:20:52
