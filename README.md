@@ -85,8 +85,8 @@
 
 
 <p float="left">
- <img width="100" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/login.jpg" />
-<img width="100" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/register.png" />
+ <img width="500" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/login.jpg" />
+<img width="500" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/register.png" />
 </p>
 [![Giriş ve Kayıt Ol Sayfası]
 
