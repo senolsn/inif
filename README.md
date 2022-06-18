@@ -229,6 +229,10 @@ Tarih aralığına göre filtrelebiliyor.
 -Teslim Ettiği Kitaplar<br/>
 -Teslim Tarihi Gecikmiş Kitaplar<br/>
 
+<br/>
+<br/>
+Altta da hangi admin, hangi çıktıyı, ne zaman aldı bilgisi gösteriliyor. Bu caydırıcı yöntemle olası bilgi çalınma işlemlerinin önüne geçiliyor.
+
 <p align="right">(<a href="#top">Başa dön</a>)</p>
 
 ### Teknolojiler
