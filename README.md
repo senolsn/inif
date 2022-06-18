@@ -84,12 +84,12 @@
 ## Proje Hakkında
 
 
+
+## Giriş Yap - Kayıt Ol
 <p float="left">
- <img width="500" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/login.jpg" />
+<img width="500" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/login.jpg" />
 <img width="500" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/register.png" />
 </p>
-## Proje Hakkında
-
 Uygulama açıldığında kullancıyı "Giriş Yap" sayfası karşılıyor. Burada kullanıcı e-posta ve şifresini girerek giriş yapıyor. 
 Kullanıcı şifresini unuttuğunda "Şifremi Unuttum" özelliğiyle beraber e-posta adresine gönderilen onay kodunu girerek şifresini güncelleyebiliyor. 
 Aynı şekilde "Kayıt Ol" sayfasında da kullanıcının girmiş olduğu e-posta adresine bir onay kodu gönderiliyor. Doğru bir şekilde giriş yapıldığında kullanıcı sisteme kaydediliyor.
@@ -97,9 +97,9 @@ Buradaki e-posta kontrolleri okulumuz personellerinin sahip olduğu e-posta adre
 
 <p align="right">(<a href="#top">Başa dön</a>)</p>
 
-<img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/dashboard-closed.png" />
-## Proje Hakkında
+## Gösterge Paneli
 
+<img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/dashboard-closed.png" />
 Bu panelde kullanıcıya kütüphane hakkındaki bilgiler dinamik olarak gösteriliyor.
 Sol menüde ise uygulamadaki diğer panellere erişim sağlanıyor.
 Sol üst kısımda o an hangi yönetici giriş yaptıysa onun ad-soyad bilgisi gösteriliyor.
@@ -107,9 +107,20 @@ Bu kurmuş olduğumuz oturum yapısıyla uygulamada yapılan her işlemi "hangi 
 
 <p align="right">(<a href="#top">Başa dön</a>)</p>
 
+## Kitap Ekle ve Hızlı Menü
 
+<img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/add-book.png" />
+Bu panelde kütüphaneye dahil edilecek kitapları sisteme ekleme işlemi yapılıyor.
+Sağdaki listeden arama yapılarak eklenilecek kitap halihazırda var mı yok mu kontrol edilebiliyor.
+Eğer varsa kullanıcı sadece güncelleme işlemi yaparak o kitabın stok sayısını arttırması gerekiyor.
+Eğer yoksa da yeni bir kayıt işlemi yapılıyor.
 
+Sağ üstte hızlı menüler bulunuyor. Bu menüler bulunduğumuz arayüzdeki girdiler kaybolmadan dil, yayınevi, yazar gibi çoklu seçim araçlarına istediğimiz değerleri eklememizi sağlıyor.
+Örneğin; eklemek istediğimiz kitabın bütün bilgilerini girdik. Fakat o kitabın yazarı çoklu seçim menüsünde bulunmuyor. Önce o yazarı sisteme kaydetmemiz gerekiyor.
+Soldaki menüde görülen "Diğer İşlemler" kısmında yazar, yayınevi vb. eklemeler yapılabiliyor. Fakat yazarı eklemek için o arayüze gittiğimizde kitap ekleme arayüzünde girmiş olduğumuz
+bütün girdiler kayboluyor. Bu kayıp işlemini önlemek için "Diğer İşlemler" menüsünde yapılan işlemleri hızlı menü olarak kitap ekleme sayfasına da ekledik.
 
+<p align="right">(<a href="#top">Başa dön</a>)</p>
 
 
 ### Teknolojiler
