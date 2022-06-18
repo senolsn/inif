@@ -97,6 +97,17 @@ Buradaki e-posta kontrolleri okulumuz personellerinin sahip olduğu e-posta adre
 
 <p align="right">(<a href="#top">Başa dön</a>)</p>
 
+<img width="500" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/register.png" />
+### Kontrol Paneli
+
+Bu panelde kullanıcıya kütüphane hakkındaki bilgiler dinamik olarak gösteriliyor.
+Sol menüde ise uygulamadaki diğer panellere erişim sağlanıyor.
+Sol üst kısımda o an hangi yönetici giriş yaptıysa onun ad-soyad bilgisi gösteriliyor.
+Bu kurmuş olduğumuz oturum yapısıyla uygulamada yapılan her işlemi "hangi yönetici, hangi işlemi, ne zaman yaptı" şeklinde kaydediyoruz.
+
+<p align="right">(<a href="#top">Başa dön</a>)</p>
+
+
 
 
 
