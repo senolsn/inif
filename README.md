@@ -143,6 +143,16 @@ Kitap ekleme de olduğu gibi burada da çoklu seçimlere ekleme yapabilmek için
 
 <p align="right">(<a href="#top">Başa dön</a>)</p>
 
+## Üye Listeleme
+
+<img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/list-student.png" />
+<img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/list-book.png" />
+Bu panelde sistemde bulunan üyeleri listeleme işlemi yapılıyor.
+Kitaplar ad, yazar gibi sahip olduğu niteliklere göre aranabiliyor. Ek olarak bir tarih aralığı belirterek eklenme tarihlerine göre de filtrelenebiliyor. 
+
+
+<p align="right">(<a href="#top">Başa dön</a>)</p>
+
 ### Teknolojiler
 
 * [.Net](https://docs.microsoft.com/tr-tr/dotnet/welcome)
