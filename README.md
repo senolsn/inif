@@ -170,6 +170,16 @@ Seçilen değere göre öğrenciler veya personeller listeleniyor.<br/>Okul veya
 
 <p align="right">(<a href="#top">Başa dön</a>)</p>
 
+## Kitap Teslim Alma
+
+<img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/get-book-back.png" />
+Bu panelde ödünç verilen kitaplar üyelerden teslim alınıyor.
+Sol kısımdan teslim alınacak öğrenci, numarasına göre arama yapılarak seçiliyor.
+Seçilen öğrenciye ödünç verilmiş kitaplar sağ üstte listeleniyor.
+Teslim alınacak kitap da sağ üstteki listeden seçiliyor. Seçilen kitabın detay bilgisi getiriliyor. Akabinde teslim al butonuyla teslim alınıyor.
+
+<p align="right">(<a href="#top">Başa dön</a>)</p>
+
 ### Teknolojiler
 
 * [.Net](https://docs.microsoft.com/tr-tr/dotnet/welcome)
