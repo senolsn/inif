@@ -231,6 +231,10 @@ Tarih aralığına göre filtrelebiliyor.
 
 <br/>
 <br/>
+<a href="https://github.com/emrecanAy/inif-assemsoft/tree/master/Exports" >Tüm örnek dosya çıktıları için tıklayın...</a>
+
+<br/>
+<br/>
 Altta da hangi admin, hangi çıktıyı, ne zaman aldı bilgisi gösteriliyor. Bu caydırıcı yöntemle olası bilgi çalınma işlemlerinin önüne geçiliyor.
 
 <p align="right">(<a href="#top">Başa dön</a>)</p>
