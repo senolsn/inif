@@ -249,6 +249,19 @@ Gidecek hatırlatma ve gecikme e-posta'larının günleri de ayarlanabiliyor.
 
 <p align="right">(<a href="#top">Başa dön</a>)</p>
 
+## Ek Özellikler
+
+<img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/email-settings.png" />
+-Yöneticiler kaydedilirken parolaları şifrelenerek veritabanına kaydediliyor.
+-Yazmış olduğumuz algoritmayla her gün ödünç verilen kitaplar kontrol edilerek teslim tarihi gecikmiş olan üyelere gecikme e-posta'sı, teslim tarihi yaklaşan üyelere
+ise hatırlatma e-posta'sı gönderiliyor.
+<br/>
+Örnek gecikme e-postası:
+<img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/expired-mail.PNG" />
+
+<p align="right">(<a href="#top">Başa dön</a>)</p>
+
+
 ### Teknolojiler
 
 * [.Net](https://docs.microsoft.com/tr-tr/dotnet/welcome)
