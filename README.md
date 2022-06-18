@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<div align="left" ><img width="600" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/login.png" /></div>
+<div align="left" ><img width="600" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/login.jpg" /></div>
 <div align="right"><img  width="600" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/register.png" /></div>
 [![Giriş ve Kayıt Ol Sayfası]
 
