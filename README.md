@@ -97,7 +97,7 @@ Buradaki e-posta kontrolleri okulumuz personellerinin sahip olduğu e-posta adre
 
 <p align="right">(<a href="#top">Başa dön</a>)</p>
 
-<img width="500" src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/dashboard-closed.png" />
+<img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/dashboard-closed.png" />
 ## Proje Hakkında
 
 Bu panelde kullanıcıya kütüphane hakkındaki bilgiler dinamik olarak gösteriliyor.
