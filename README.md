@@ -213,7 +213,7 @@ Tarih aralığına göre filtrelebiliyor.
 ## Dosya İşlemleri
 
 <img src="https://github.com/emrecanAy/inif-assemsoft/blob/master/images/export-files.png" />
-Bu panelde kullanıcı istediği veriyi istediği dosya tipinde çıktı alabiliyor.<br/>
+<b>Bu panelde kullanıcı istediği veriyi istediği dosya tipinde çıktı alabiliyor.</b><br/>
 <br/>
 Örneğin:<br/>
 -Tüm Öğrenciler<br/>
@@ -222,8 +222,8 @@ Bu panelde kullanıcı istediği veriyi istediği dosya tipinde çıktı alabili
 -Tüm Kitaplar<br/>
 -En Çok Okunan 10 Kitap</br>
 -Tüm Silinmiş Kitaplar<br/>
-
-Sağdaki kısımda ise üyeye özel çıktılar da alınabiliyor.</br>
+<br/>
+<b>Sağdaki kısımda ise üyeye özel çıktılar da alınabiliyor.</b></br>
 Örneğin:<br/>
 -Ödünç Aldığı Kitaplar<br/>
 -Teslim Ettiği Kitaplar<br/>
