@@ -12,6 +12,9 @@
   <p align="center">
     Uludağ Üniversitesi İnegöl İşletme Fakültesi'nde kullanılacak olan kütüphane yönetim sistemi uygulamasıdır.
   </p>
+  <p align="center">
+    Projemiz halihazırda Uludağ Üniversitesi İnegöl İşletme Fakültesi ve Meslek Yüksek Okulunda kullanıldığı için maalesef kaynak kodlarını paylaşamıyoruz.
+  </p>
 </div>
 
 
